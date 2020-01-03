@@ -11,9 +11,15 @@ All the values in the dataset are obtained from the game's [wiki website](https:
 
 From time to time, I will keep the dataset up-to-date once new vehicles have been released, along with minor fixes...
 
-## Attributes
+## Version Info
 
-This dataset contains these attributes below for each vehicle:
+**Dataset Version:** 1.0
+**Last Updated:** 3rd January 2020
+**Vehicle Roster:** Update 8.0 - Formula 1 Update
+
+## Features
+
+This dataset contains these features below for each vehicle:
 * `Manufacturer` : The manufacturer name
 * `Model` : The model name of the manufacturer
 * `PR` : Base Performance Rating value (i.e. no upgrades applied)
