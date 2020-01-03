@@ -14,8 +14,10 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 ## Version Info
 
 **Dataset Version:** 1.0
+
 **Last Updated:** 3rd January 2020
-**Vehicle Roster:** Update 8.0 - Formula 1 Update
+
+**Vehicle Roster:** Game Version 8.0 - Formula 1 Update
 
 ## Features
 
