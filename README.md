@@ -39,6 +39,6 @@ This dataset contains these features below for each vehicle:
 
 ## My Outcomes
 
-1st part of my outcomes is available here.
+1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb).
 
 More parts will arrive at a later dates.
