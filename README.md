@@ -3,7 +3,7 @@
 
 ![Real Racing 3](https://i.ibb.co/PtnQjDc/real-racing-3-logo-1.png)
 
-I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 6 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 250 vehicles available for purchase and driving.
+I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 6 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 260 vehicles available for purchase and driving.
 
 On the other hand, as I'm eager to apply Data Science nowadays, one day, I asked to myself _"Hey, why don't I create a nice dataset for this game I enjoyed?"_. For this purpose, here, I've created this dataset that lists all the vehicles appeared in the game, also includes discontinued ones. Thus, the dataset is ready for methods to be applied for Data Science and awaits for valuable insights!
 
@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 1.0.1
+**Dataset Version:** 2.0
 
-**Last Updated:** 8th January 2020
+**Last Updated:** 14th January 2020
 
-**Vehicle Roster:** Game Version 8.0 - Formula 1 Update
+**Vehicle Roster Dependence:** Game Version 8.1 - BMW Update
 
 ## Features
 
@@ -42,3 +42,5 @@ This dataset contains these features below for each vehicle:
 1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb).
 
 More parts will arrive at a later dates.
+
+**These studies have been carried out in IPython Shell.**
