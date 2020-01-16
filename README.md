@@ -41,6 +41,10 @@ This dataset contains these features below for each vehicle:
 
 1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb).
 
-More parts will arrive at a later dates.
+2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb)
 
-**These studies have been carried out in IPython Shell.**
+The next part will arrive at a later date.
+
+**All these studies have been carried out in IPython Shell.**
+
+**Note:** It is bizarre that values that contained `$` appeared problematically in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
