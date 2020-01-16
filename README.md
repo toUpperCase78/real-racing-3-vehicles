@@ -47,4 +47,4 @@ The next part will arrive at a later date.
 
 **All these studies have been carried out in IPython Shell.**
 
-**Note:** It is bizarre that values that contained `$` appeared problematically in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
+**Note:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
