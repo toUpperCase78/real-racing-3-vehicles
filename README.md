@@ -13,9 +13,9 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.0
+**Dataset Version:** 2.0.1
 
-**Last Updated:** 14th January 2020
+**Last Updated:** 30th January 2020
 
 **Vehicle Roster Dependence:** Game Version 8.1 - BMW Update
 
@@ -41,10 +41,12 @@ This dataset contains these features below for each vehicle:
 
 1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb).
 
-2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb)
+2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb).
 
 The next part will arrive at a later date.
 
 **All these studies have been carried out in IPython Shell.**
 
-**Note:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
+**Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
+
+**Note 2:** Due to minor changes to datasets such as insertion of new vehicle data or erroneous values, some experiments might not be 100% accurate. That's why the outcomes will be updated to reflect those changes.
