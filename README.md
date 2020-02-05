@@ -39,11 +39,11 @@ This dataset contains these features below for each vehicle:
 
 ## My Outcomes
 
-1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb).
+1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb), containing several data analysis.
 
-2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb).
+2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb), containing advanced data analyses.
 
-The next part will arrive at a later date.
+3rd part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3.ipynb), focusing on data visualization.
 
 **All these studies have been carried out in IPython Shell.**
 
