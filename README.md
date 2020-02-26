@@ -13,33 +13,33 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.0.1
+**Dataset Version:** 3.0
 
-**Last Updated:** 30th January 2020
+**Last Updated:** 26th February 2020
 
-**Vehicle Roster Dependence:** Game Version 8.1 - BMW Update
+**Vehicle Roster Dependence:** Game Version 8.2 - Alfa Romeo Update
 
 ## Features
 
-This dataset contains these features below for each vehicle:
+This dataset contains these features below for each vehicle (according to the last dataset version):
 * `Manufacturer` : The manufacturer name
 * `Model` : The model name of the manufacturer
 * `PR` : Base Performance Rating value (i.e. no upgrades applied)
-* `Top_Speed` : Base top speed value in kph
+* `Top Speed` : Base top speed value in kph
 * `Acceleration` : Base acceleration value in seconds
 * `Braking` : Base braking value in meters
 * `Grip` : Base cornering grip value in g
 * `Class` : Indicates the vehicle class (could be P, S or R)
 * `Type` : Indicates the vehicle type w.r.t. engine placement and traction (e.g. FR, M4, RR) 
-* `Series` : Shows the number of different career series to be driven
-* `Purchase_Cost` : The value for purchasing the vehicle with currrency type (could be R$, Gold or M$)
-* `Service_Time` : Required total servicing time in minutes
-* `Service_Cost` : Required servicing cost in R$
+* `Series` : Shows the number of eligible career series to be driven
+* `Purchase Cost` : The value for purchasing the vehicle with currrency type (could be R$, Gold or M$)
+* `Service Time` : Required total servicing time in minutes
+* `Service Cost` : Required servicing cost in R$
 * `Availability` : Indicates whether or not the vehicle is available for sale
 
 ## My Outcomes
 
-1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb), containing several data analysis.
+1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb), containing several data analyses.
 
 2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb), containing advanced data analyses.
 
@@ -49,4 +49,4 @@ This dataset contains these features below for each vehicle:
 
 **Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
 
-**Note 2:** Due to minor changes to datasets such as insertion of new vehicle data or erroneous values, some experiments might not be 100% accurate. That's why the outcomes will be updated to reflect those changes.
+**Note 2:** Due to minor changes to datasets such as insertion of new vehicle data or erroneous values, some experiments might not be 100% accurate. That's why the outcomes will be updated some time later to reflect those changes.
