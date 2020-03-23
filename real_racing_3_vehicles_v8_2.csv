@@ -1,7 +1,7 @@
 Manufacturer,Model,PR,Top Speed,Acceleration,Braking,Grip,Class,Type,Series,Purchase Cost,Service Time,Service Cost,Availability
 Acura,NSX GT3,65.2,273,3.01,29.5,1.65,R,MR,2,750 Gold,180,1990,True
 Acura,ARX-05,78.4,321,2.79,25.6,1.76,R,MR,1,850 Gold,180,1997,True
-Alfa Romeo,Giulietta TCR,34.5,241,5.30,29.2,1.29,R,FF,1,180 Gold,180,N/A,True
+Alfa Romeo,Giulietta TCR,34.5,241,5.30,29.2,1.29,R,FF,1,180 Gold,180,1332,True
 Alfa Romeo,4C,29.4,257,4.34,30.1,1.04,P,MR,1,200 Gold,180,1415,True
 Alfa Romeo,155 V6 TI,37.9,273,4.59,28.9,1.35,R,F4,1,300 Gold,180,1665,True
 Ariel,Atom 3.5,44.4,249,2.70,30.4,1.00,S,RR,2,255000 R$,140,1170,True
