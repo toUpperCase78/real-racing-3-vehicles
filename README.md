@@ -3,7 +3,7 @@
 
 ![Real Racing 3](https://i.ibb.co/PtnQjDc/real-racing-3-logo-1.png)
 
-I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 6 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 260 vehicles available for purchase and driving.
+I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 7 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 260 vehicles available for purchase and driving.
 
 On the other hand, as I'm eager to apply Data Science nowadays, one day, I asked to myself _"Hey, why don't I create a nice dataset for this game I enjoyed?"_. For this purpose, here, I've created this dataset that lists all the vehicles appeared in the game, also includes discontinued ones. Thus, the dataset is ready for methods to be applied for Data Science and awaits for valuable insights!
 
@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 3.0
+**Dataset Version:** 4.0
 
-**Last Updated:** 26th February 2020
+**Last Updated:** 24th April 2020
 
-**Vehicle Roster Dependence:** Game Version 8.2 - Alfa Romeo Update
+**Vehicle Roster Dependence:** Game Version 8.3 - McLaren Update
 
 ## Features
 
@@ -49,4 +49,4 @@ This dataset contains these features below for each vehicle (according to the la
 
 **Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
 
-**Note 2:** Due to minor changes to datasets such as insertion of new vehicle data or erroneous values, some experiments might not be 100% accurate. That's why the outcomes will be updated some time later to reflect those changes.
+**Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values,  experiments that were presented in outcomes might not be 100% accurate. That's why they will be updated some time later to reflect those changes.
