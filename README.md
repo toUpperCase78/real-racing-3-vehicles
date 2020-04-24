@@ -13,7 +13,7 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 4.0
+**Dataset Version:** 4.1
 
 **Last Updated:** 24th April 2020
 
@@ -36,6 +36,7 @@ This dataset contains these features below for each vehicle (according to the la
 * `Service Time` : Required total servicing time in minutes
 * `Service Cost` : Required servicing cost in R$
 * `Availability` : Indicates whether or not the vehicle is available for sale
+* `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded (new in v4)
 
 ## My Outcomes
 
