@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 4.1
+**Dataset Version:** 2.1
 
-**Last Updated:** 24th April 2020
+**Last Updated:** 15th May 2020
 
-**Vehicle Roster Dependence:** Game Version 8.3 - McLaren Update
+**Vehicle Roster Dependence:** Game Version 8.4 - GT3 Update
 
 ## Features
 
@@ -50,4 +50,4 @@ This dataset contains these features below for each vehicle (according to the la
 
 **Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
 
-**Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values,  experiments that were presented in outcomes might not be 100% accurate. That's why they will be updated some time later to reflect those changes.
+**Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values,  experiments that were presented in outcomes might not be 100% accurate or out-of-date. That's why they will be updated some time later to reflect those changes.
