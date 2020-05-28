@@ -40,7 +40,7 @@ This dataset contains these features below for each vehicle (according to the la
 
 ## My Outcomes
 
-1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1.ipynb), containing several data analyses **(revised for game version 8.4)**.
+1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1_rev1.ipynb), containing several data analyses **(revised for game version 8.4)**.
 
 2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb), containing advanced data analyses (for game version 8.1).
 
