@@ -53,3 +53,5 @@ This dataset contains these features below for each vehicle (according to the la
 **Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
 
 **Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values,  experiments that were presented in outcomes might not be 100% accurate or out-of-date. That's why they will be updated some time later to reflect those changes.
+
+**Note 3:** Sometimes, GitHub is stubborn to load the IPython files when it is taking too long. Just click on 'Reload' if is ended with something going wrong.
