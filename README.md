@@ -5,7 +5,7 @@
 
 I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 7 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 280 vehicles available for purchase and drive.
 
-On the other hand, as I'm eager to apply Data Science nowadays, one day, I asked to myself _"Hey, why don't I create a nice dataset for this game I enjoyed?"_. For this purpose, here, I've generated these datasets that lists all the vehicles appeared in the game, also includes discontinued ones, starting from game version 8.0. Thus, these datasets are ready for analyses to be applied for Data Science and await for valuable insights!
+On the other hand, as I'm eager to apply Data Science, one day, I asked to myself _"Hey, why don't I create a nice dataset for this game I enjoyed?"_. For this purpose, here, I've generated these datasets that lists all the vehicles appeared in the game, also includes discontinued ones, starting from game version 8.0. Thus, these datasets are ready for analyses to be applied for Data Science and await for valuable insights!
 
 All the values in these datasets are obtained from the game's [wiki website](https://rr3.fandom.com/wiki/Main_Page).
 
@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.2
+**Dataset Version:** 2.2.1
 
-**Last Updated:** 20th June 2020
+**Last Updated:** 28th July 2020
 
-**Vehicle Roster Dependence:** Game Version 8.5 - Le Mans & Formula E Update
+**Vehicle Roster Dependence:** Game Version 8.6 - Brabham Update
 
 ## Features
 
@@ -29,14 +29,14 @@ This dataset contains these features below for each vehicle (according to the la
 * `Acceleration` : Base acceleration value in seconds
 * `Braking` : Base braking value in meters
 * `Grip` : Base cornering grip value in g
-* `Class` : Indicates the vehicle class (could be P, S or R)
-* `Type` : Indicates the vehicle type w.r.t. engine placement and traction (e.g. FR, M4, RR) 
-* `Series` : Shows the number of eligible career series to be driven
+* `Class` : Indicates the vehicle class (could be `P`, `S` or `R`)
+* `Type` : Indicates the vehicle type w.r.t. engine placement and traction (e.g. `FR`, `M4`, `RR`) 
+* `Series` : Describes the number of eligible career series the vehicle can be driven
 * `Price` : The value for purchasing the vehicle with currrency type (could be R$, Gold or M$)
 * `Service Time` : Required total servicing time in minutes
 * `Service Cost` : Required servicing cost in R$
-* `Availability` : Indicates whether or not the vehicle is available for sale
-* `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded (new in v4)
+* `Availability` : Indicates whether or not the vehicle is available for sale in the game
+* `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
 
 ## My Outcomes
 
