@@ -3,7 +3,7 @@
 
 ![Real Racing 3](https://i.ibb.co/PtnQjDc/real-racing-3-logo-1.png)
 
-I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 7 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 280 vehicles available for purchase and drive.
+I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 7 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 290 vehicles available for purchase and drive.
 
 On the other hand, as I'm eager to apply Data Science, one day, I asked to myself _"Hey, why don't I create a nice dataset for this game I enjoyed?"_. For this purpose, here, I've generated these datasets that lists all the vehicles appeared in the game, also includes discontinued ones, starting from game version 8.0. Thus, these datasets are ready for analyses to be applied for Data Science and await for valuable insights!
 
@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.2.1
+**Dataset Version:** 2.3
 
-**Last Updated:** 28th July 2020
+**Last Updated:** 16th September 2020
 
-**Vehicle Roster Dependence:** Game Version 8.6 - Brabham Update
+**Vehicle Roster Dependence:** Game Version 8.7 - Formula 1 Update
 
 ## Features
 
@@ -35,8 +35,9 @@ This dataset contains these features below for each vehicle (according to the la
 * `Price` : The value for purchasing the vehicle with currrency type (could be R$, Gold or M$)
 * `Service Time` : Required total servicing time in minutes
 * `Service Cost` : Required servicing cost in R$
-* `Availability` : Indicates whether or not the vehicle is available for sale in the game
+* `Availability` : Indicates whether or not the vehicle is available for purchase in the game
 * `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
+* `In Main Career`: Indicates whether or not the vehicle is involved in main career series
 
 ## My Outcomes
 
@@ -47,6 +48,8 @@ This dataset contains these features below for each vehicle (according to the la
 3rd part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3.ipynb), focusing on data visualization (for game version 8.1).
 
 **All these studies have been carried out in IPython Shell.**
+
+**I'm aware that these analyses above are outdated! That's why they will be replaced with up-to-date ones soon!**
 
 ## Notes
 
