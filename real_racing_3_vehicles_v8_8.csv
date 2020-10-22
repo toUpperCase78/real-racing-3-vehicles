@@ -244,7 +244,7 @@ McLaren,600LT,54.8,332,2.90,29.6,1.15,S,MR,1,600 Gold,180,1870,True,False,False
 McLaren,720S Coupe,61.5,341,2.80,29.6,1.30,S,MR,5,650 Gold,180,1877,True,True,True
 McLaren,P1 GTR,78.8,362,2.40,25.9,1.55,R,MR,4,900 Gold,120,1997,True,True,True
 McLaren,650S GT3,60.8,333,2.90,28.0,1.29,R,MR,3,2500000 R$,120,1997,True,True,False
-McLaren,Senna,66.2,335,2.90,28.0,1.45,S,MR,1,850 Gold,180,1997,True,False,False
+McLaren,Senna,66.2,335,2.90,28.0,1.45,S,MR,1,850 Gold,180,1997,True,True,False
 McLaren,MP4/4,93.9,333,2.90,17.4,2.25,R,MR,2,950 Gold,180,2037,True,True,False
 McLaren,Senna GTR,79.5,362,2.80,25.9,1.70,S,MR,1,1000 Gold,180,2037,True,True,False
 McLaren,MP4-X,130.3,402,1.90,14.3,4.00,R,MR(MHD),2,1200 Gold,240,2117,True,True,False
@@ -327,7 +327,7 @@ Porsche,936/77 Spyder,66.4,360,2.98,29.3,1.45,R,MR,2,740 Gold,180,1997,True,True
 Porsche,911 GT2 RS,73.1,386,2.70,29.3,1.50,S,RR,2,800 Gold,180,1997,True,True,False
 Porsche,911 GT2 RS Clubsport,74.1,340,2.60,28.7,1.60,R,FR,2,825 Gold,180,1997,True,True,False
 Porsche,919 Hybrid (2015),90.5,377,2.58,24.4,2.07,R,MR,2,950 Gold,180,1997,True,False,True
-Porsche,935 (2019),75.3,343,2.67,28.6,1.65,R,RR,1,850 Gold,180,1997,True,False,False
+Porsche,935 (2019),75.3,343,2.67,28.6,1.65,R,RR,1,850 Gold,180,1997,True,True,False
 Porsche,919 Hybrid Evo,110.5,370,2.02,16.8,2.90,R,M4,2,1150 Gold,180,2090,True,True,False
 Renault,Clio Cup,5.7,238,5.80,36.3,0.99,S,FF,2,40 Gold,40,630,True,False,False
 Renault,Megane R.S. 275 Trophy-R,14.1,254,5.80,34.1,1.15,P,FF(RHD),2,95 Gold,90,647,True,False,False
