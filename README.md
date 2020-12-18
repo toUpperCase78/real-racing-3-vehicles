@@ -15,7 +15,7 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 **Dataset Version:** 2.3.2
 
-**Last Updated:** 17th December 2020
+**Last Updated:** 18th December 2020
 
 **Vehicle Roster Dependence:** Game Version 9.0 
 
@@ -41,9 +41,9 @@ This dataset contains these features below for each vehicle (according to the la
 
 ## My Outcomes
 
-1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1_rev1.ipynb), containing several data analyses **(revised for game version 8.4)**.
+1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1_rev2.ipynb), containing several data analyses **(revised for game version 9.0)**.
 
-2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2.ipynb), containing advanced data analyses (for game version 8.1).
+2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2_rev1.ipynb), containing more data analyses **(revised for game version 9.0)**.
 
 3rd part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3.ipynb), focusing on data visualization (for game version 8.1).
 
@@ -53,8 +53,8 @@ This dataset contains these features below for each vehicle (according to the la
 
 ## Notes
 
-**Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. Take this in consideration while I look for any solutions for proper output.
+**Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. For this reason, texts containing `$` sign have been changed.
 
-**Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values,  experiments that were presented in outcomes might not be 100% accurate or out-of-date. That's why they will be updated some time later to reflect those changes.
+**Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values, experiments that were presented in outcomes might not be 100% accurate or out-of-date. That's why they will be updated some time later to reflect those changes.
 
-**Note 3:** Sometimes, GitHub is stubborn to load the IPython files when it is taking too long. Just click on 'Reload' if is ended with something going wrong.
+**Note 3:** Sometimes, GitHub is stubborn to load the IPython files when it is taking too long. Just click on **Reload** if it is ended with **something going wrong**.
