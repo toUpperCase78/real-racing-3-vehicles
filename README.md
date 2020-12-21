@@ -15,7 +15,7 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 **Dataset Version:** 2.3.2
 
-**Last Updated:** 18th December 2020
+**Last Updated:** 21st December 2020
 
 **Vehicle Roster Dependence:** Game Version 9.0 
 
@@ -45,7 +45,7 @@ This dataset contains these features below for each vehicle (according to the la
 
 2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2_rev1.ipynb), containing more data analyses **(revised for game version 9.0)**.
 
-3rd part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3.ipynb), focusing on data visualization (for game version 8.1).
+3rd part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3_rev1.ipynb), focusing on data visualization **(revised for game version 9.0)**.
 
 **All these studies have been carried out in IPython Shell.**
 
