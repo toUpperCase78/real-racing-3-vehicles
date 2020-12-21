@@ -49,8 +49,6 @@ This dataset contains these features below for each vehicle (according to the la
 
 **All these studies have been carried out in IPython Shell.**
 
-**I'm aware that these analyses above are outdated! That's why they will be replaced with up-to-date ones soon!**
-
 ## Notes
 
 **Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. For this reason, texts containing `$` sign have been changed.
