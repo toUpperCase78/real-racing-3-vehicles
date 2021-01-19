@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.3.2
+**Dataset Version:** 2.3.3
 
-**Last Updated:** 21st December 2020
+**Last Updated:** 19th January 2021
 
-**Vehicle Roster Dependence:** Game Version 9.0 
+**Vehicle Roster Dependence:** Game Version 9.1
 
 ## Features
 
