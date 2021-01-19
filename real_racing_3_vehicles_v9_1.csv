@@ -66,7 +66,7 @@ Chevrolet,Camaro SS (2017),27.5,290,4.30,35.7,1.03,P,FR,1,200 Gold,120,1082,True
 Chevrolet,Camaro SS (1967),3.4,225,6.00,47.5,0.77,P,FR,1,55 Gold,120,1125,True,False,False
 Chevrolet,Stingray 427 (1969),11.0,274,4.70,39.6,0.80,R,FR,2,150 Gold,180,1415,True,False,True
 Chevrolet,Corvette C8.R,63.5,257,3.60,25.3,1.66,R,MR,1,1950000 M$,180,0,True,False,False
-Chevrolet,Corvette C6.R GT2,57.0,274,3.80,27.7,1.60,R,FR,1,450 Gold,180,,True,True,False
+Chevrolet,Corvette C6.R GT2,57.0,274,3.80,27.7,1.60,R,FR,1,450 Gold,180,1585,True,True,False
 Chevrolet,SS (Hendrick Motorsports - 2015),44.1,317,3.61,30.8,1.12,S,FR,1,500 Gold,180,1560,False,False,False
 Chevrolet,SS (Stewart-Haas Racing - 2015),44.1,317,3.59,31.1,1.12,S,FR,1,500 Gold,180,1560,False,False,False
 Chevrolet,SS (Stewart-Haas Racing - 2016),44.2,317,3.59,30.2,1.10,S,FR,1,500 Gold,180,1560,False,False,False
