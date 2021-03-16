@@ -3,9 +3,9 @@
 
 ![Real Racing 3](https://i.ibb.co/PtnQjDc/real-racing-3-logo-1.png)
 
-I've been playing this mobile racing game, **Real Racing 3**, developed by EA and Firemonkey, for several years. Although the game is over 7 years old, it still gets many updates throughout each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 290 vehicles available for purchase and drive.
+I've been playing this mobile racing game, **Real Racing 3**, developed by Firemonkey and published by Electronic Arts, for several years. Although the game is 8 years old, it still gets updates several times each year, which includes vehicles, tracks, career series, special events, exclusive series, motorsport series. Up to now, it contains over 300 vehicles available for purchase and drive.
 
-Meanwhile, as I'm eager to learn Data Science, one moment I asked to myself _"Hey, why don't I create nice datasets for this game I enjoyed?"_. For this purpose, here, I've generated these datasets that lists all the vehicles appeared in the game, also includes discontinued ones, starting from game version 8.0. Thus, these datasets are ready for analyses and await for valuable insights!
+Meanwhile, as a Data Science enthusiast, here, I've generated these datasets that list all the vehicles appeared in the game; also including discontinued ones, starting from game version 8.0. Thus, these datasets are ready for analyses and await for valuable insights!
 
 All the values in these datasets are obtained from the game's [wiki website](https://rr3.fandom.com/wiki/Main_Page).
 
@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.3.3
+**Dataset Version:** 2.3.5
 
-**Last Updated:** 19th January 2021
+**Last Updated:** 16th March 2021
 
-**Vehicle Roster Dependence:** Game Version 9.1
+**Vehicle Roster Dependence:** Game Version 9.2 - Volkswagen/Electric Cars
 
 ## Features
 
