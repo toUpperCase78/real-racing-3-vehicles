@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.3.5
+**Dataset Version:** 2.3.7
 
-**Last Updated:** 16th March 2021
+**Last Updated:** 18th April 2021
 
-**Vehicle Roster Dependence:** Game Version 9.2 - Volkswagen/Electric Cars
+**Vehicle Roster Dependence:** Game Version 9.3 - Hennessey Venom F5
 
 ## Features
 
