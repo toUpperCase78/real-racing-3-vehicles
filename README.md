@@ -13,11 +13,11 @@ From time to time, I will keep the dataset up-to-date once new vehicles have bee
 
 ## Version Info
 
-**Dataset Version:** 2.3.7
+**Dataset Version:** 2.4.0
 
-**Last Updated:** 18th April 2021
+**Last Updated:** 10th June 2021
 
-**Vehicle Roster Dependence:** Game Version 9.3 - Hennessey Venom F5
+**Vehicle Roster Dependence:** Game Version 9.4 - NASCAR 2021 Update
 
 ## Features
 
