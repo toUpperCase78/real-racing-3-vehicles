@@ -3,11 +3,11 @@
 
 ![Real Racing 3](https://i.ibb.co/PtnQjDc/real-racing-3-logo-1.png)
 
-I've been playing this mobile racing game, **Real Racing 3**, which was developed by Firemonkey and published by Electronic Arts, for several years. Although the game is 8 years old, it still gets updates several times each year, which includes new vehicles, tracks, career series, special events, exclusive series, and motorsport series. Up to now, it contains over 300 vehicles available for purchase and drive.
+I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 8 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 300 vehicles available for purchase and drive.
 
 Meanwhile, as a Data Science enthusiast, here I've generated these datasets that list all the vehicles appeared in the game; also including those that no longer available for purchase. 
 
-I started this repository project from **game version 8.0**. Here, you can find vehicle datasets for all separate versions and data analyses await for valuable insights in the upcoming days!
+I started this repository project from **game version 8.0**. Here, you can find vehicle datasets for all individual versions and data analyses await for valuable insights in the upcoming days!
 
 All the values in these datasets are obtained from the game's [wiki website](https://rr3.fandom.com/wiki/Main_Page).
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.5
+**Dataset Version:** 2.4.7
 
-**Last Updated:** 19th June 2021
+**Last Updated:** 21st August 2021
 
-**Vehicle Roster Dependence:** Game Version 9.5 - Formula E Update
+**Vehicle Roster Dependence:** Game Version 9.6 - Formula 1 Update
 
 ## Features
 
