@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.8
+**Dataset Version:** 2.4.9
 
-**Last Updated:** 8th October 2021
+**Last Updated:** 24th November 2021
 
-**Vehicle Roster Dependence:** Game Version 9.7 - Formula 1 Update
+**Vehicle Roster Dependency:** Game Version 9.8 - Bugatti La Voiture Noire Update
 
 ## Features
 
