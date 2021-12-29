@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.9
+**Dataset Version:** 2.4.10
 
-**Last Updated:** 24th November 2021
+**Last Updated:** 29th December 2021
 
-**Vehicle Roster Dependency:** Game Version 9.8 - Bugatti La Voiture Noire Update
+**Vehicle Roster Dependency:** Game Version 10.0 - Bugatti Bolide Update
 
 ## Features
 
