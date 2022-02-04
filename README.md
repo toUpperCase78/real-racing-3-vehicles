@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.10
+**Dataset Version:** 2.4.12
 
-**Last Updated:** 29th December 2021
+**Last Updated:** 4th February 2022
 
-**Vehicle Roster Dependency:** Game Version 10.0 - Bugatti Bolide Update
+**Vehicle Roster Dependency:** Game Version 10.1 - F1 & Huracan STO Update
 
 ## Features
 
