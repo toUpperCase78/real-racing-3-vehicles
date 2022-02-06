@@ -1,7 +1,7 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](https://i.ibb.co/PtnQjDc/real-racing-3-logo-1.png)
+![Real Racing 3](Images/real_racing_3_image(4).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 8 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 300 vehicles available for purchase and drive.
 
