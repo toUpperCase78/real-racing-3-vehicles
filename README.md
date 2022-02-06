@@ -43,15 +43,15 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## My Outcomes
 
-1st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome1_rev2.ipynb), containing several data analyses **(revised for game version 9.0)**.
+1st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev3.ipynb), containing several data analyses **(for game version 10.1)**.
 
-2st part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2_rev1.ipynb), containing more data analyses **(revised for game version 9.0)**.
+2st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2_rev1.ipynb), containing more data analyses **(for game version 9.0)**.
 
-3rd part of my outcomes is available [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3_rev1.ipynb), focusing on data visualization **(revised for game version 9.0)**.
+3rd Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3_rev1.ipynb), focusing on data visualization **(for game version 9.0)**.
 
 **All these studies have been carried out in IPython Shell.**
 
-**Since all these data analyses above were made for older version, new one will be implemented in the future!**
+**Since all these data analyses above were made for older version, new ones will be implemented in the future!**
 
 ## Notes
 
@@ -59,4 +59,4 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 **Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values, experiments that were presented in outcomes might not be 100% accurate or out-of-date. That's why they will be fixed some time later to reflect those changes.
 
-**Note 3:** Sometimes, GitHub is stubborn to load the IPython files when it is taking too long. Please click on **Reload** if it is ended with **something going wrong**.
+## AS ALWAYS, KEEP RACING!
