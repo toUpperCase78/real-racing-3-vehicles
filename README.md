@@ -15,9 +15,9 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.12
+**Dataset Version:** 2.4.13
 
-**Last Updated:** 4th February 2022
+**Last Updated:** 7th February 2022
 
 **Vehicle Roster Dependency:** Game Version 10.1 - F1 & Huracan STO Update
 
@@ -45,13 +45,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 1st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev3.ipynb), containing several data analyses **(for game version 10.1)**.
 
-2st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome2_rev1.ipynb), containing more data analyses **(for game version 9.0)**.
+2st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis2_rev2.ipynb), containing more data analyses **(for game version 10.1)**.
 
 3rd Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_outcome3_rev1.ipynb), focusing on data visualization **(for game version 9.0)**.
 
 **All these studies have been carried out in IPython Shell.**
-
-**Since all these data analyses above were made for older version, new ones will be implemented in the future!**
 
 ## Notes
 
