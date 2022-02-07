@@ -55,7 +55,7 @@ BMW,M5,48.6,304,3.00,29.6,1.06,P,F4,2,375 Gold,180,1560,Yes,Yes,No
 BMW,3.0 CSL Hommage R,50.5,306,3.50,29.0,1.26,S,FR,1,550 Gold,150,1812,Yes,No,No
 BMW,M4 GT4,48.7,274,4.02,30.5,1.49,R,FR,1,1000000 M$,180,0,Yes,No,No
 BMW,M8 GTE,78.3,303,2.77,25.9,1.80,R,FR,1,680 Gold,180,1990,Yes,No,No
-BMW,Driving Experience M4 Racing,64.0,285,2.60,31.4,1.50,R,FR,2,1250000 M$,180,1990,Yes,No,No
+BMW,Driving Experience M4 Racing,64.0,285,2.60,31.4,1.50,R,FR,2,1250000 M$,180,0,Yes,No,No
 BMW,M6 GT3,65.2,274,3.10,29.0,1.66,R,FR,1,750 Gold,180,1990,Yes,No,No
 Brabham,BT62,68.9,319,2.88,27.4,1.55,R,MR,2,800 Gold,180,1997,Yes,Yes,No
 Bugatti,EB 110 Super Sport,34.7,343,4.40,34.1,1.11,S,M4,1,410 Gold,180,1415,Yes,No,No
@@ -120,7 +120,7 @@ Ferrari,599 GTO,47.4,335,3.20,31.4,1.06,S,FR,2,300 Gold,215,1592,Yes,No,Yes
 Ferrari,F12Berlinetta,48.8,340,3.10,31.1,1.05,S,RR,3,320 Gold,215,1822,Yes,No,Yes
 Ferrari,360 Modena,28.6,296,4.30,33.5,0.99,S,MR,1,350 Gold,180,1627,Yes,No,No
 Ferrari,F12TDF,53.0,340,2.90,30.5,1.10,S,FR,2,720 Gold,225,1665,Yes,Yes,No
-Ferrari,250 GTO,16.2,280,5.40,34.1,1.02,R,FR,1,1150000 M$,180,1665,Yes,No,No
+Ferrari,250 GTO,16.2,280,5.40,34.1,1.02,R,FR,1,1150000 M$,180,0,Yes,No,No
 Ferrari,812 Superfast,55.0,356,2.90,30.5,1.12,S,FR,3,600 Gold,180,1800,Yes,Yes,No
 Ferrari,F40 LM,63.3,369,3.00,29.6,1.35,R,MR,2,800 Gold,180,1812,Yes,Yes,No
 Ferrari,Enzo Ferrari,45.2,354,3.50,31.7,1.05,S,MR,4,1550000 R$,255,1822,Yes,Yes,Yes
@@ -219,7 +219,7 @@ Formula E,Audi Sport Abt Schaeffler Formula E Team Audi E-Tron FE07,55.9,240,2.9
 Formula E,DS Techeetah DS E-Tense FE21,56.0,245,2.99,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
 Formula E,Tag Heuer Porsche Formula E Team Porsche 99X Electric (Season 7),55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
 Formula E,Rokit Venturi Racing Mercedes-EQ Silver Arrow 02,55.8,243,2.98,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
-Formula E,Jaguar Racing Jaguar I-Type 5,55.9,240,2.96,2.71,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
+Formula E,Jaguar Racing Jaguar I-Type 5,55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
 Formula E,Nissan E.Dams Nissan IM02 (Season 7),56.0,245,2.99,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
 Formula E,BMW I Andretti Motorsport BMW IFE.21,55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
 Formula E,Mahindra Racing Mahindra M7Electro,55.8,243,2.98,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No
@@ -369,7 +369,7 @@ Porsche,935 (1979),52.1,340,3.30,33.5,1.28,R,RR,1,650 Gold,180,1665,Yes,No,No
 Porsche,911 GT3 R,65.3,277,3.05,29.3,1.67,R,RR,3,1300000 M$,180,0,Yes,Yes,No
 Porsche,919 Hybrid (2014),90.2,362,2.63,25.0,2.00,R,M4,2,950 Gold,120,1812,Yes,No,Yes
 Porsche,911 GT3 RS (2018),55.4,312,3.10,28.0,1.24,S,RR,2,600 Gold,180,1812,Yes,No,No
-Prosche,911 Turbo S,79.2,330,2.60,26.8,1.40,S,R4,1,725 Gold,180,1977,Yes,Yes,No
+Porsche,911 Turbo S,79.2,330,2.60,26.8,1.40,S,R4,1,725 Gold,180,1977,Yes,Yes,No
 Porsche,911 RSR (2013),74.4,296,2.70,26.8,1.70,R,RR,2,600 Gold,265,1877,Yes,No,No
 Porsche,718 Cayman GT4 Clubsport,48.4,272,4.15,30.2,1.49,R,MR,2,1000000 M$,180,0,Yes,No,No
 Porsche,RS Spyder Evo,71.7,266,3.05,25.9,1.78,R,MR,1,2000000 M$,180,0,Yes,No,No
