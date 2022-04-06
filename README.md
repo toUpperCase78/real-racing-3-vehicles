@@ -1,7 +1,7 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(4).png)
+![Real Racing 3](real_racing_3_image(7).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 8 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 300 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.13
+**Dataset Version:** 2.4.15
 
-**Last Updated:** 10th February 2022
+**Last Updated:** 6th April 2022
 
-**Vehicle Roster Dependency:** Game Version 10.1 - F1 & Huracan STO Update
+**Vehicle Roster Dependency:** Game Version 10.3 - Koenigsegg Jesko Update
 
 ## Features
 
