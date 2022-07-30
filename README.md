@@ -3,9 +3,9 @@
 
 ![Real Racing 3](real_racing_3_image(8).png)
 
-I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 300 vehicles available for purchase and drive.
+I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 350 vehicles available for purchase and drive.
 
-Meanwhile, as a Data Science enthusiast, here I've generated these datasets that list all the vehicles appeared in the game; also including those that no longer available for purchase. 
+Meanwhile, as a Data Science enthusiast, here I've created these datasets that list all the vehicles appeared in the game; also including those that no longer available for purchase. 
 
 I started this repository project from **game version 8.0**. Here, you can find vehicle datasets for all individual versions and data analyses await for valuable insights in the upcoming days!
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.17
+**Dataset Version:** 2.4.18
 
-**Last Updated:** 14th May 2022
+**Last Updated:** 30th July 2022
 
-**Vehicle Roster Dependency:** Game Version 10.4 - Formula E 2022 Update
+**Vehicle Roster Dependency:** Game Version 10.5 - Valhalla Update
 
 ## Features
 
@@ -41,7 +41,7 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
 
-## My Outcomes
+## My Analyses
 
 1st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev3.ipynb), containing several data analyses **(for game version 10.1)**.
 
