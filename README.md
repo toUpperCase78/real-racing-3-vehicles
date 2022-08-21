@@ -1,7 +1,7 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](real_racing_3_image(9).png)
+![Real Racing 3](real_racing_3_image(10).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 350 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.4.18
+**Dataset Version:** 2.6.0
 
-**Last Updated:** 30th July 2022
+**Last Updated:** 22nd August 2022
 
-**Vehicle Roster Dependency:** Game Version 10.5 - Valhalla Update
+**Vehicle Roster Dependency:** Game Version 10.6 - Mercedes-AMG GT Black Series Update
 
 ## Features
 
@@ -40,6 +40,7 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `Availability` : Indicates whether or not the vehicle is available for purchase in the game
 * `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
+* `In Season 1` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1
 
 ## My Analyses
 
