@@ -58,4 +58,43 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 **Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values, experiments that were presented in outcomes might not be 100% accurate or out-of-date. That's why they will be fixed some time later to reflect those changes.
 
+## My Vehicle Wishlist
+
+By thw way, I'd like to see these vehicles to be purchased and driveable in the next updates of Real Racing 3! So, here's my wishlist:
+
+- [ ] Alfa Romeo Giulia GTAm
+- [ ] Aston Martin DB11
+- [ ] Aston Martin Superleggera DBS
+- [ ] Aston Martin Zagato
+- [X] ~~Audi R8 (New Gen.)~~
+- [X] ~~BMW M4 Coupe~~
+- [ ] Bugatti Centodieci
+- [ ] Ferrari F2004
+- [X] ~~Ferrari SF90 Stradale~~
+- [ ] Ferrari Roma
+- [ ] Ferrari Monza SP1
+- [X] ~~Formula 1 2022 Season Cars~~
+- [ ] Formula 1 2022 Season Safety Cars (Mercedes-AMG & Aston Martin)
+- [ ] Koenigsegg Gemera
+- [X] ~~Koenigsegg Jesko~~
+- [ ] Lamborghini Egoista
+- [ ] Lancia Delta HT Integrale
+- [ ] LMP1 Prototypes 2022 Season
+- [ ] Lotus Elise
+- [ ] Lotus Evora
+- [ ] Maserati MC12
+- [ ] Maserati MC20
+- [ ] McLaren Artura
+- [ ] McLaren MP4-13
+- [ ] Mercedes-AMG Project One
+- [ ] Mitsubishi Lancer Evolution IX
+- [ ] Mitsubishi Lancer Evolution X
+- [ ] Nissan Z Coupe (2023)
+- [X] ~~Porsche 911 Carrera (992)~~
+- [ ] Porsche 911 RSR (2022)
+- [ ] Renault R26
+- [ ] Subaru BRZ
+- [ ] Subaru Impreza WRX STI
+- [ ] Toyota Supra (The Latest Gen.)
+
 ## AS ALWAYS, KEEP RACING!
