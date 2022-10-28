@@ -1,7 +1,7 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](real_racing_3_image(11).png)
+![Real Racing 3](real_racing_3_image(12).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 350 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.6.5
+**Dataset Version:** 2.6.8
 
-**Last Updated:** 19th September 2022
+**Last Updated:** 28th October 2022
 
-**Vehicle Roster Dependency:** Game Version 10.7 - Formula 1 & Ferrari SF90 Stradale Update
+**Vehicle Roster Dependency:** Game Version 10.8 - NASCAR & Formula 1 2022 Update
 
 ## Features
 
@@ -60,21 +60,23 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## My Vehicle Wishlist
 
-By thw way, I'd like to see these vehicles to be purchased and driveable in the next updates of Real Racing 3! So, here's my wishlist:
+By thw way, I'd like to see these vehicles to be purchasable and driveable in the next updates of Real Racing 3! So, here's my wishlist:
 
 - [ ] Alfa Romeo Giulia GTAm
 - [ ] Aston Martin DB11
 - [ ] Aston Martin Superleggera DBS
 - [ ] Aston Martin Zagato
+- [ ] Audi Quattro S1 Rally
 - [X] ~~Audi R8 (New Gen.)~~
 - [X] ~~BMW M4 Coupe~~
 - [ ] Bugatti Centodieci
 - [ ] Ferrari F2004
-- [X] ~~Ferrari SF90 Stradale~~
-- [ ] Ferrari Roma
 - [ ] Ferrari Monza SP1
-- [X] ~~Formula 1 2022 Season Cars~~
+- [ ] Ferrari Roma
+- [X] ~~Ferrari SF90 Stradale~~
+- [X] ~~Formula 1 2022 Season~~
 - [ ] Formula 1 2022 Season Safety Cars (Mercedes-AMG & Aston Martin)
+- [ ] Honda Civic Type R (The Latest Gen.)
 - [ ] Koenigsegg Gemera
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
@@ -84,17 +86,20 @@ By thw way, I'd like to see these vehicles to be purchased and driveable in the 
 - [ ] Lotus Evora
 - [ ] Maserati MC12
 - [ ] Maserati MC20
+- [ ] Mazda MX-5 (The Latest Gen.)
+- [ ] Mazda RX-8
 - [ ] McLaren Artura
 - [ ] McLaren MP4-13
 - [ ] Mercedes-AMG Project One
+- [ ] Mini John Cooper Works
 - [ ] Mitsubishi Lancer Evolution IX
 - [ ] Mitsubishi Lancer Evolution X
-- [ ] Nissan Z Coupe (2023)
+- [X] ~~Nissan Z~~
 - [X] ~~Porsche 911 Carrera (992)~~
 - [ ] Porsche 911 RSR (2022)
 - [ ] Renault R26
 - [ ] Subaru BRZ
-- [ ] Subaru Impreza WRX STI
+- [ ] Subaru Impreza WRX STI (any 2nd-5th Gen.)
 - [ ] Toyota Supra (The Latest Gen.)
 
 ## AS ALWAYS, KEEP RACING!
