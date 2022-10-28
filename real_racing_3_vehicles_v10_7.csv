@@ -348,7 +348,7 @@ Mercedes-AMG,GT Black Series,60.5,325,2.90,28.0,1.30,S,FR,1,750 Gold,120,1812,Ye
 Mercedes-AMG,GT4,48.3,272,4.05,31.1,1.46,R,FR,1,1000000 M$,180,0,Yes,No,No,No
 Mercedes-AMG,C 63 Touring Car,64.3,290,2.70,29.6,1.48,R,FR,2,600 Gold,180,1990,Yes,No,No,No
 Mercedes-Benz,C11,69.9,401,3.20,29.0,1.52,R,MR,2,800 Gold,180,1997,Yes,Yes,No,No
-Mitsubishi Motors,Lancer Evolution VI,5.3,238,5.00,39.0,0.98,P,F4,1,300 Gold,180,,Yes,No,No,No
+Mitsubishi Motors,Lancer Evolution VI,5.3,238,5.00,39.0,0.98,P,F4,1,300 Gold,180,1415,Yes,No,No,No
 Nissan,Silvia (S15),1.7,243,5.50,34.4,0.85,P,FR(RHD),3,25700 R$,1,342,Yes,No,Yes,No
 Nissan,Skyline GT-R V-Spec (R34),2.5,257,5.80,36.6,0.88,P,FR(RHD),5,35600 R$,9,460,Yes,Yes,Yes,No
 Nissan,350Z (Z33),8.3,249,5.30,34.1,0.90,P,FR,5,47600 R$,30,565,Yes,No,Yes,No
@@ -437,7 +437,7 @@ Shelby,Cobra 427 (1966),23.1,266,4.20,36.6,0.95,S,FR,3,180 Gold,195,1480,Yes,No,
 Spada,Codatronca TS,56.3,340,2.95,28.7,1.17,S,FR,1,690000 R$,205,1530,Yes,No,No,No
 Spada,Codatronca Barchetta,57.5,335,2.78,29.3,1.18,S,FR,1,270 Gold,205,1550,Yes,No,No,No
 SRT,Viper GTS,42.4,332,3.50,32.3,1.06,S,FR,3,176000 R$,115,1037,Yes,No,Yes,No
-Subaru,Impreza 22B-STI Version,5.4,229,4.90,38.1,0.99,P,F4,1,300 Gold,180,,Yes,No,No,No
+Subaru,Impreza 22B-STI Version,5.4,229,4.90,38.1,0.99,P,F4,1,300 Gold,180,1415,Yes,No,No,No
 Toyota,Camry (Sunoco),41.0,314,3.70,31.1,1.07,R,FR,1,720000 R$,30,1545,No,No,No,No
 Toyota,Camry (Joe Gibbs Racing - 2015),44.1,315,3.59,30.2,1.10,S,FR,1,500 Gold,180,1560,No,No,No,No
 Toyota,Camry (Joe Gibbs Racing - 2016),44.2,319,3.58,30.2,1.09,S,FR,1,500 Gold,180,1560,No,No,No,No
