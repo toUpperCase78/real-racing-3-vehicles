@@ -62,12 +62,15 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 By thw way, I'd like to see these vehicles to be purchasable and driveable in the next updates of Real Racing 3! So, here's my wishlist:
 
+- [ ] Abarth 500
 - [ ] Alfa Romeo Giulia GTAm
+- [ ] Alpine A110 (2017)
 - [ ] Aston Martin DB11
 - [ ] Aston Martin Superleggera DBS
 - [ ] Aston Martin Zagato
 - [ ] Audi Quattro S1 Rally
 - [X] ~~Audi R8 (New Gen.)~~
+- [ ] BMW i8
 - [X] ~~BMW M4 Coupe~~
 - [ ] Bugatti Centodieci
 - [ ] Ferrari F2004
@@ -76,7 +79,7 @@ By thw way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
 - [ ] Formula 1 2022 Season Safety Cars (Mercedes-AMG & Aston Martin)
-- [ ] Honda Civic Type R (The Latest Gen.)
+- [ ] Honda Civic Type-R (The Latest Gen.)
 - [ ] Koenigsegg Gemera
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
