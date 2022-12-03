@@ -366,7 +366,7 @@ Nissan,Sumo Power GT GT-R GT1,55.0,320,3.10,30.2,1.28,R,FR(RHD),2,458700 R$,175,
 Nissan,JR Motorsports GT-R GT1,56.4,317,3.00,29.9,1.29,R,FR(RHD),3,459400 R$,175,1385,Yes,No,Yes,No
 Nissan,Skyline GT-R Group A (BNR32),37.8,306,4.70,34.4,1.40,R,F4(RHD),4,280 Gold,180,1415,Yes,No,No,No
 Nissan,240Z (S30) R3 Spec,27.8,266,4.70,33.5,1.17,R,F4,2,180 Gold,180,1415,Yes,No,No,No
-Nissan,Z,21.5,249,4.50,37.2,1.05,R,FR,1,275 Gold,180,,Yes,No,No,No
+Nissan,Z,21.5,249,4.50,37.2,1.05,P,FR,1,275 Gold,180,1415,Yes,No,No,No
 Nissan,Silvia (S15) R3 Spec,40.7,274,4.50,30.5,1.40,R,FR,4,300 Gold,60,1450,Yes,Yes,No,No
 Nissan,370Z (Z34) R3 Spec,41.2,282,4.20,30.5,1.30,R,FR,1,350 Gold,180,1450,Yes,No,No,No
 Nissan,Altima (2016),46.1,307,3.68,44.5,1.37,R,FR(RHD),1,600 Gold,175,1480,No,No,No,No
