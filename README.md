@@ -17,7 +17,7 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 **Dataset Version:** 2.7.0
 
-**Last Updated:** 20th January 2023
+**Last Updated:** 27th January 2023
 
 **Vehicle Roster Dependency:** Game Version 11.0 - Ferrari Daytona SP3 Update
 
@@ -42,15 +42,17 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
 * `In Season 1` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1
 
-## My Analyses
+## My Data Analyses
 
-1st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev3.ipynb), containing several data analyses **(for game version 10.1)**.
+Data analyses are available in separate parts. You can click on the links in the table and inspect them all.
 
-2st Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis2_rev2.ipynb), containing more data analyses **(for game version 10.1)**.
+**All these analyses have been prepared in IPython Shell and are based on game version 11.0.**
 
-3rd Part of My Analysis is [here](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis3_rev2.ipynb), focusing on data visualization **(for game version 10.1)**.
-
-**All these studies have been carried out in IPython Shell.**
+| Parts | Features |
+| ----- | -------- |
+| [Part 1](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev4.ipynb) | Basic & Intermediate Data Analyses |
+| [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis2_rev3.ipynb) | Advanced Data Analyses |
+| [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis3_rev3.ipynb) | Several Data Visualizations |
 
 ## Notes
 
@@ -76,10 +78,11 @@ By thw way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Ferrari F2004
 - [ ] Ferrari Monza SP1
 - [ ] Ferrari Roma
+- [ ] Ford Focus RS (2017)
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
 - [ ] Formula 1 2022 Season Safety Cars (Mercedes-AMG & Aston Martin)
-- [ ] Honda Civic Type-R (The Latest Gen.)
+- [ ] Honda Civic Type-R (2010s)
 - [ ] Koenigsegg Gemera
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
@@ -100,6 +103,7 @@ By thw way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Nissan Z~~
 - [X] ~~Porsche 911 Carrera (992)~~
 - [ ] Porsche 911 RSR (2022)
+- [ ] Porsche 911 RSR (2023)
 - [ ] Renault R26
 - [ ] Subaru BRZ
 - [ ] Subaru Impreza WRX STI (any 2nd-5th Gen.)
