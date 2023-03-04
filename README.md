@@ -1,7 +1,7 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](real_racing_3_image(13).png)
+![Real Racing 3](Images/real_racing_3_image(14).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9+ years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Dataset Version:** 2.7.0
+**Latest Dataset Version:** 2.7.1
 
-**Last Updated:** 27th January 2023
+**Last Updated:** 4th March 2023
 
-**Vehicle Roster Dependency:** Game Version 11.0 - Ferrari Daytona SP3 Update
+**Vehicle Roster Dependency:** Game Version 11.1 - 10 Year Anniversary
 
 ## Features
 
@@ -92,7 +92,7 @@ By thw way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Lotus Evora
 - [ ] Maserati MC12
 - [ ] Maserati MC20
-- [ ] Mazda MX-5 (The Latest Gen.)
+- [X] ~~Mazda MX-5 (ND)~~
 - [ ] Mazda RX-8
 - [ ] McLaren Artura
 - [ ] McLaren MP4-13
