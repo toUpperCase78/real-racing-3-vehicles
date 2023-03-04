@@ -1,0 +1,464 @@
+Manufacturer,Model,PR,Top Speed,Acceleration,Braking,Grip,Class,Type,Series,Price,Service Time,Service Cost,Is Available,Has Exclusive Events,In Main Career,In Season 1
+Acura,NSX (2017),46.7,306,3.10,31.7,1.09,S,M4,1,450 Gold,180,1665,Yes,No,No,Yes
+Acura,NSX GT3,65.2,274,3.02,29.6,1.65,R,MR,2,750 Gold,180,1990,Yes,No,No,No
+Acura,ARX-05,78.5,322,2.80,25.6,1.76,R,MR,1,850 Gold,180,1997,Yes,No,No,No
+Alfa Romeo,Giulietta TCR,34.5,241,5.30,29.3,1.30,R,FF,1,180 Gold,180,1332,Yes,No,No,No
+Alfa Romeo,4C,29.4,257,4.34,30.2,1.05,P,MR,1,200 Gold,180,1415,Yes,No,No,Yes
+Alfa Romeo,155 V6 TI,38.0,274,4.60,29.0,1.35,R,F4,2,300 Gold,180,1665,Yes,Yes,No,Yes
+Apollo,Intensa Emozione,84.0,335,2.65,26.2,2.00,S,MR,2,1100 Gold,180,2062,Yes,Yes,No,Yes
+Ariel,Atom 3.5,44.5,249,2.70,30.5,1.00,S,RR,2,255000 R$,140,1170,Yes,No,Yes,No
+Ariel,Atom V8,61.1,322,2.30,30.5,1.20,S,RR,3,150 Gold,180,1402,Yes,Yes,Yes,No
+Aston Martin,DB9,28.2,295,4.50,32.0,1.00,P,FR,4,230000 R$,130,1132,Yes,No,Yes,No
+Aston Martin,Vanquish,33.6,295,4.10,31.4,1.02,P,FR,3,110 Gold,150,1230,Yes,No,Yes,No
+Aston Martin,V12 Vantage S,43.8,330,3.70,30.5,1.10,P,FR,3,425000 R$,170,1355,Yes,Yes,Yes,No
+Aston Martin,Vantage AMR Pro,51.3,303,3.60,28.0,1.30,R,FR,2,500 Gold,180,1415,Yes,Yes,No,No
+Aston Martin,Vantage 59,40.5,314,4.00,30.5,1.07,P,FR,2,400 Gold,180,1415,Yes,No,No,Yes
+Aston Martin,Vantage N430,40.2,314,4.10,30.2,1.15,P,FR,2,240 Gold,180,1415,Yes,No,No,No
+Aston Martin,Vantage GT3,51.8,317,3.30,29.6,1.23,P,FR,3,571500 R$,190,1462,Yes,No,Yes,No
+Aston Martin,One-77,53.9,354,3.50,29.3,1.25,S,FR,2,600 Gold,180,1480,Yes,Yes,No,No
+Aston Martin,Vantage GTE (2019),63.6,262,3.50,25.6,1.67,R,FR,1,1950000 M$,180,0,Yes,No,No,No
+Aston Martin,Vulcan,70.8,346,2.90,26.8,1.53,S,FR,4,800 Gold,120,1665,Yes,Yes,No,No
+Aston Martin,V8 Vantage GT2,57.0,282,3.54,30.5,1.57,R,FR,1,1900000 M$,180,0,Yes,No,No,No
+Aston Martin,Vantage GT4,48.6,269,4.00,30.8,1.50,R,FR,1,1000000 M$,180,0,Yes,No,No,No
+Aston Martin,DBR1-2,73.4,298,2.95,26.2,1.73,R,MR,1,2300000 M$,180,0,Yes,No,No,No
+Aston Martin,Vantage GTE (2012),72.2,332,2.60,27.4,1.53,P,FR,1,600 Gold,120,1985,Yes,No,No,No
+Aston Martin,Vantage GTE (2017),78.2,319,2.89,25.3,1.78,R,FR,2,650 Gold,180,1990,Yes,Yes,No,No
+Aston Martin,Vantage GTE (2018),79.1,319,2.85,25.0,1.78,R,FR,1,680 Gold,180,1997,Yes,No,No,No
+Aston Martin,Valkyrie,95.5,367,2.60,21.3,2.53,S,MR,2,1150 Gold,180,2090,Yes,Yes,No,Yes
+Aston Martin,Valhalla Concept,92.0,349,2.42,22.9,2.40,S,MR,1,1150 Gold,180,2090,Yes,Yes,No,Yes
+Audi,TT RS Coupe (2012),18.8,249,4.10,36.9,0.89,P,F4,4,56850 R$,40,627,Yes,No,Yes,No
+Audi,R8 V10 Coupe,44.6,315,3.90,29.9,1.20,S,M4,3,187300 R$,120,1060,Yes,No,Yes,No
+Audi,R8 LMS Ultra,50.5,315,3.50,30.8,1.30,R,MR,6,366300 R$,160,1302,Yes,Yes,Yes,No
+Audi,TT RS Coupe (2019),40.0,280,3.40,30.5,1.01,P,F4,2,340 Gold,180,1332,Yes,Yes,No,No
+Audi,Quattro B2,3.5,222,6.90,40.8,0.95,R,F4,1,225 Gold,180,1332,Yes,No,No,Yes
+Audi,R8 V10 Spyder,48.7,317,3.50,29.9,1.20,S,M4,4,250 Gold,170,1347,Yes,No,Yes,No
+Audi,RS 5 Coupé,33.3,280,3.77,32.6,0.98,P,M4,1,400 Gold,180,1377,Yes,Yes,No,Yes
+Audi,RS 3,31.4,249,3.67,32.0,0.95,P,F4,1,350 Gold,180,1480,Yes,No,No,Yes
+Audi,E-Tron GT Concept,42.9,249,3.20,30.5,1.10,S,M4,2,600 Gold,180,1665,Yes,Yes,No,No
+Audi,R8 (2021),61.8,330,3.00,29.6,1.40,P,M4,2,750 Gold,180,1812,Yes,No,No,Yes
+Audi,R8 LMS GT4,48.6,267,4.10,30.2,1.52,R,MR,1,1000000 M$,180,0,Yes,No,No,No
+Audi,R15 TDI,73.4,290,2.90,26.5,1.74,R,MR,1,2300000 M$,180,0,Yes,No,No,No
+Audi,R18 E-Tron Quattro (2015),90.6,378,2.61,25.6,2.10,R,MR(RHD),2,950 Gold,180,1997,Yes,No,Yes,No
+Audi,R18 E-Tron Quattro (2014),89.9,377,2.57,25.6,1.90,R,M4(RHD),2,4000000 R$,320,2165,Yes,No,Yes,No
+Bentley,Continental GT Speed,34.8,330,4.00,30.8,0.93,S,F4,3,240000 R$,135,1150,Yes,No,Yes,No
+Bentley,Continental Supersports,37.4,328,3.70,31.7,0.94,S,F4,2,267000 R$,140,1187,Yes,No,Yes,No
+Bentley,Continental GT3,65.4,282,3.07,30.5,1.70,R,RR,2,1300000 M$,180,0,Yes,Yes,No,No
+Bentley,Continental GT Speed (2021),70.9,335,3.50,28.6,1.80,S,F4,1,750 Gold,180,1942,Yes,Yes,No,Yes
+BMW,1 Series M Coupe,18.2,249,4.90,32.0,0.98,P,FR,3,59800 R$,45,647,Yes,No,Yes,No
+BMW,Z4 M Coupe,12.4,249,5.00,36.6,0.90,P,FR,4,62900 R$,45,665,Yes,No,Yes,No
+BMW,M3 Coupe,21.4,249,4.60,33.5,0.95,P,FR,2,84600 R$,65,772,Yes,No,Yes,No
+BMW,Z4 SDrive35is,19.3,249,4.80,32.3,0.96,P,FR,2,89700 R$,70,792,Yes,No,Yes,No
+BMW,M3 GTS,28.9,306,4.40,32.0,0.90,P,FR,4,118700 R$,90,895,Yes,Yes,Yes,No
+BMW,M6 Coupe,30.4,306,4.20,32.0,0.98,P,FR,4,127700 R$,95,920,Yes,No,Yes,Yes
+BMW,3.0 CSL,3.5,249,6.50,32.0,0.95,R,FR,1,160 Gold,120,1230,Yes,No,No,No
+BMW,M1,19.9,261,5.60,30.5,1.15,S,RR,2,200 Gold,165,1332,Yes,Yes,No,No
+BMW,M3 (E30),3.6,241,6.50,39.6,0.91,P,FR,1,250 Gold,165,1332,Yes,Yes,No,Yes
+BMW,Z4 GT3,50.3,290,3.20,29.9,1.24,R,FR,3,457000 R$,175,1382,Yes,No,Yes,No
+BMW,M2 Competition,28.2,280,4.25,34.1,1.02,P,FR,3,300 Gold,180,1415,Yes,No,No,Yes
+BMW,M4,33.0,249,4.06,31.1,1.10,P,FR,2,375 Gold,180,1510,Yes,No,No,Yes
+BMW,M3 GT2 ALMS,60.0,307,3.20,30.5,1.50,R,FR,4,654000 R$,200,1512,Yes,No,Yes,No
+BMW,M5,48.6,304,3.00,29.6,1.06,P,F4,2,375 Gold,180,1560,Yes,Yes,No,Yes
+BMW,M4 GT3,66.9,277,3.10,29.3,1.71,R,RR,1,1325000 M$,180,0,Yes,No,No,Yes
+BMW,3.0 CSL Hommage R,50.5,306,3.50,29.0,1.26,S,FR,1,550 Gold,150,1812,Yes,No,No,No
+BMW,M4 GT4,48.7,274,4.02,30.5,1.49,R,FR,1,1000000 M$,180,0,Yes,No,No,Yes
+BMW,M8 GTE,78.3,303,2.77,25.9,1.80,R,FR,1,680 Gold,180,1990,Yes,No,No,No
+BMW,Driving Experience M4 Racing,64.0,285,2.60,31.4,1.50,R,FR,2,1250000 M$,180,0,Yes,No,No,No
+BMW,M6 GT3,65.2,274,3.10,29.0,1.66,R,FR,1,750 Gold,180,1990,Yes,No,No,No
+Brabham,BT62,68.9,319,2.88,27.4,1.55,R,MR,2,800 Gold,180,1997,Yes,Yes,No,Yes
+Bugatti,EB 110 Super Sport,34.7,343,4.40,34.1,1.11,S,M4,1,410 Gold,180,1415,Yes,No,No,No
+Bugatti,Veyron 16.4,69.5,407,2.70,31.4,1.40,S,M4,3,1650000 R$,260,1845,Yes,Yes,Yes,No
+Bugatti,Veyron 16.4 Grand Sport Vitesse,71.8,410,2.60,30.5,1.40,S,M4,3,750 Gold,285,1997,Yes,Yes,Yes,No
+Bugatti,Chiron,77.2,420,2.40,31.4,1.50,S,M4,2,750 Gold,180,1997,Yes,Yes,No,No
+Bugatti,Divo,77.9,380,2.32,31.1,1.60,S,M4,2,850 Gold,180,1997,Yes,Yes,No,Yes
+Bugatti,Chiron Sport,80.6,420,2.40,29.9,1.60,S,M4,4,950 Gold,180,2062,Yes,Yes,No,Yes
+Bugatti,La Voiture Noire,82.3,420,2.35,31.7,1.65,S,M4,1,1000 Gold,180,2062,Yes,Yes,No,Yes
+Bugatti,Bolide,96.0,500,2.10,29.0,2.25,S,M4,1,1150 Gold,180,2090,Yes,Yes,No,Yes
+Cadillac,CT5-V Blackwing,41.7,330,3.60,34.1,1.10,P,FR,1,525 Gold,180,1700,Yes,Yes,No,Yes
+Cadillac,DPI-V.R,78.5,325,2.76,26.2,1.75,R,MR,2,850 Gold,180,1997,Yes,No,No,No
+Caterham,Seven 620 R,49.1,249,2.70,32.0,1.18,S,FR(RHD),2,378500 R$,165,1312,Yes,No,Yes,No
+Chevrolet,Cobalt SS,3.8,257,5.70,36.0,0.89,P,FF,1,33590 R$,5,437,Yes,No,No,No
+Chevrolet,Camaro ZL1 (2013),26.2,290,4.00,38.4,1.00,S,FR,3,61350 R$,45,655,Yes,No,No,No
+Chevrolet,Corvette Stingray Z51,38.4,306,3.70,32.6,1.05,R,FR,5,300 Gold,95,940,Yes,No,No,Yes
+Chevrolet,Corvette ZR1,43.8,330,3.40,31.4,1.05,S,FR,3,50 Gold,100,947,Yes,No,No,No
+Chevrolet,SS (NASCAR Academy),25.6,283,4.10,34.7,0.90,R,FR,1,200000 R$,10,397,No,No,No,No
+Chevrolet,Camaro SS (2017),27.5,290,4.30,35.7,1.03,P,FR,1,200 Gold,120,1082,Yes,No,No,No
+Chevrolet,Camaro SS (1967),3.4,225,6.00,47.5,0.77,P,FR,1,55 Gold,120,1125,Yes,No,No,No
+Chevrolet,Stingray 427 (1969),11.0,274,4.70,39.6,0.80,R,FR,2,150 Gold,180,1415,Yes,No,Yes,No
+Chevrolet,Corvette Grand Sport,16.1,286,5.80,28.3,0.98,R,FR,3,1150000 M$,180,0,Yes,Yes,No,No
+Chevrolet,Camaro Z/28 (Racing),21.9,298,5.35,32.0,1.08,R,FR,1,1150000 M$,180,0,Yes,No,No,No
+Chevrolet,Corvette C8.R (2020),63.5,257,3.60,25.3,1.66,R,MR,1,1950000 M$,180,0,Yes,No,No,No
+Chevrolet,Corvette C6.R GT2,57.0,274,3.80,27.7,1.60,R,FR,2,450 Gold,180,1585,Yes,Yes,No,No
+Chevrolet,Corvette Stingray C8,45.8,296,2.80,33.2,1.03,S,MR,1,450 Gold,180,1665,Yes,Yes,No,Yes
+Chevrolet,Corvette C7 ZR1,49.4,346,3.20,34.7,1.18,S,FR,1,550 Gold,180,1760,Yes,Yes,No,Yes
+Chevrolet,Camaro ZL1 1LE,50.4,311,3.40,27.7,1.18,S,FR,1,550 Gold,180,1760,Yes,Yes,No,Yes
+Chevrolet,Corvette C8 Z06,60.0,315,2.60,28.3,1.22,S,MR,1,600 Gold,180,1772,Yes,Yes,No,Yes
+Chevrolet,SS (Hendrick Motorsports - 2015),44.1,317,3.61,30.8,1.12,S,FR,1,500 Gold,180,1560,No,No,No,No
+Chevrolet,SS (Stewart-Haas Racing - 2015),44.1,317,3.59,31.1,1.12,S,FR,1,500 Gold,180,1560,No,No,No,No
+Chevrolet,SS (Stewart-Haas Racing - 2016),44.2,317,3.59,30.2,1.10,S,FR,1,500 Gold,180,1560,No,No,No,No
+Chevrolet,SS (Hendrick Motorsports - 2016),44.2,319,3.55,30.5,1.09,S,FR,1,500 Gold,180,1560,No,No,No,No
+Chevrolet,SS (Hendrick Motorsports - 2017),43.5,320,3.50,30.4,1.05,S,FR,1,500 Gold,180,1560,No,No,No,No
+Chevrolet,Camaro ZL1 (2018),43.8,325,3.50,30.2,1.04,R,FR,1,500 Gold,180,1560,No,No,No,No
+Chevrolet,Camaro ZL1 (2019),45.7,325,3.50,29.9,1.09,R,FR,2,500 Gold,180,1560,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Hendrick Motorsports - 2020),43.8,296,3.47,29.9,1.09,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Chip Ganassi Racing - 2020),43.8,295,3.45,29.6,1.08,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Richard Childress Racing - 2020),43.8,293,3.44,29.9,1.09,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Richard Petty Motorsports - 2020),43.8,293,3.47,29.6,1.09,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Hendrick Motorsports - 2021),45.4,299,3.44,29.3,1.10,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Chip Ganassi Racing - 2021),45.4,298,3.42,29.0,1.10,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Richard Childress Racing - 2021),45.4,296,3.41,29.3,1.11,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 1LE (Richard Petty Motorsports - 2021),45.4,296,3.44,29.0,1.11,R,FR,1,2150000 M$,180,0,No,No,No,No
+Chevrolet,Camaro ZL1 (2022),45.3,290,3.42,29.0,1.09,R,FR,1,2150000 M$,180,0,Yes,No,No,No
+Chevrolet,Camaro GT4.R,48.7,264,4.00,30.2,1.52,R,MR,1,1000000 M$,180,0,Yes,No,No,No
+Chevrolet,Corvette C7.R,77.6,322,2.90,26.2,1.78,R,FR,1,650 Gold,285,1990,Yes,No,No,No
+Dodge,Charger R/T,8.4,235,5.20,34.7,0.82,P,F4,1,36495 R$,10,467,Yes,No,Yes,No
+Dodge,Challenger R/T,12.2,274,5.00,34.1,0.89,P,FR,3,43595 R$,25,532,Yes,No,Yes,No
+Dodge,Charger SRT8,14.5,282,4.80,36.6,0.88,P,FR,3,46250 R$,25,552,Yes,No,Yes,No
+Dodge,Challenger SRT8,17.2,274,4.50,34.7,0.92,P,FR,2,51400 R$,35,592,Yes,No,Yes,No
+Dodge,Challenger RT (1971),0.2,204,7.00,47.2,0.73,P,FR,2,81000 R$,65,757,Yes,No,Yes,No
+Dodge,Viper SRT10 Coupe,36.7,325,3.80,31.7,1.06,S,FR,3,108820 R$,80,862,Yes,No,Yes,No
+Dodge,Charger RT (1969),1.9,211,6.45,48.2,0.72,P,FR,3,120000 R$,90,897,Yes,No,Yes,No
+Dodge,Challenger SRT Hellcat,36.5,320,3.60,33.2,0.94,P,FR,4,275 Gold,105,980,Yes,Yes,No,Yes
+Dodge,Viper SRT10 ACR-X,44.6,298,3.30,29.9,1.08,R,FR,3,214950 R$,125,1110,Yes,No,Yes,Yes
+Ferrari,F40,37.3,323,3.80,36.3,1.10,S,MR,3,375000 R$,165,1310,Yes,No,Yes,No
+Ferrari,Testarossa,20.3,290,5.20,32.3,1.01,S,RR,3,250 Gold,180,1367,Yes,Yes,No,No
+Ferrari,F50,38.3,312,3.70,37.2,1.15,S,MR,2,160 Gold,180,1415,Yes,No,Yes,No
+Ferrari,F430,36.6,315,3.90,32.0,1.02,S,RR,1,350 Gold,180,1422,Yes,No,No,No
+Ferrari,FF,38.3,335,3.70,33.5,1.00,S,R4,2,585000 R$,190,1470,Yes,No,Yes,No
+Ferrari,458 Spider,42.0,320,3.40,32.0,1.01,S,MR,2,610000 R$,195,1487,Yes,No,Yes,No
+Ferrari,500 TRC,4.1,245,5.70,39.6,0.98,R,FR,1,300 Gold,180,1535,Yes,No,No,No
+Ferrari,458 Italia,43.0,325,3.40,32.0,1.03,S,RR,4,720000 R$,205,1545,Yes,No,Yes,No
+Ferrari,J50,48.9,327,2.90,31.7,1.04,S,RR,2,450 Gold,180,1585,Yes,No,No,No
+Ferrari,599 GTO,47.4,335,3.20,31.4,1.06,S,FR,2,300 Gold,215,1592,Yes,No,Yes,No
+Ferrari,F12Berlinetta,48.8,340,3.10,31.1,1.05,S,RR,3,320 Gold,215,1822,Yes,No,Yes,No
+Ferrari,360 Modena,28.6,296,4.30,33.5,0.99,S,MR,1,350 Gold,180,1627,Yes,No,No,No
+Ferrari,F12TDF,53.0,340,2.90,30.5,1.10,S,FR,2,720 Gold,225,1665,Yes,Yes,No,No
+Ferrari,250 GTO,16.2,280,5.40,34.1,1.02,R,FR,1,1150000 M$,180,0,Yes,No,No,No
+Ferrari,812 Superfast,55.0,356,2.90,30.5,1.12,S,FR,3,600 Gold,180,1800,Yes,Yes,No,Yes
+Ferrari,F40 LM,63.3,369,3.00,29.6,1.35,R,MR,2,800 Gold,180,1812,Yes,Yes,No,No
+Ferrari,Enzo Ferrari,45.2,354,3.50,31.7,1.05,S,MR,4,1550000 R$,255,1822,Yes,Yes,Yes,No
+Ferrari,412 T2,98.5,338,2.15,17.7,3.10,R,MR(MHD),1,950 Gold,275,1915,Yes,No,No,No
+Ferrari,F8 Tributo,55.6,340,2.80,28.7,1.10,S,MR,3,750 Gold,180,1915,Yes,Yes,No,Yes
+Ferrari,488 GTE (2016),78.0,330,2.86,26.2,1.76,R,FR,1,650 Gold,285,1990,Yes,No,No,No
+Ferrari,488 GT3,65.2,277,3.07,29.3,1.65,R,MR,2,750 Gold,180,1990,Yes,Yes,No,No
+Ferrari,F14 T,99.0,330,2.00,16.8,2.95,R,MR(MHD),3,1050 Gold,285,1997,Yes,Yes,Yes,No
+Ferrari,488 GTE EVO (AF Corse),79.3,332,2.83,26.2,1.77,R,MR,1,680 Gold,180,1997,Yes,No,No,No
+Ferrari,SF90 Stradale,74.0,340,2.00,27.4,1.37,S,M4,2,800 Gold,180,1997,Yes,No,No,No
+Ferrari,LaFerrari,66.0,349,2.90,27.7,1.40,S,MR,5,790 Gold,295,2037,Yes,Yes,Yes,No
+Ferrari,FXX K,78.8,370,2.50,25.0,1.45,R,MR,2,950 Gold,180,2037,Yes,Yes,No,No
+Ferrari,FXX K Evo,79.2,370,2.50,24.4,1.48,R,MR,3,980 Gold,180,2037,Yes,Yes,No,No
+Ferrari,Daytona SP3,66.1,340,2.60,26.5,1.30,S,MR,1,850 Gold,180,2037,Yes,Yes,No,No
+Ferrari,375 F1,52.6,278,2.90,29.0,1.20,R,FR(MHD),1,3600000 R$,310,2127,Yes,No,No,No
+Ford,Focus RS,4.6,262,5.90,38.7,0.94,P,FF,3,33000 R$,4,432,Yes,No,Yes,No
+Ford,Shelby GT500,27.5,290,4.20,32.6,1.00,P,FR,4,63100 R$,45,665,Yes,No,Yes,No
+Ford,Mustang GT Premium,20.5,264,4.50,36.3,0.96,P,FR,5,125 Gold,75,832,Yes,No,Yes,No
+Ford,GT (2005),38.4,330,3.60,33.2,0.92,S,MR,3,149500 R$,105,977,Yes,No,Yes,No
+Ford,Shelby GT350R,43.6,314,3.45,32.3,1.10,S,FR,5,350 Gold,105,1192,Yes,No,No,No
+Ford,GT FIA GT1,53.0,340,3.20,30.8,1.22,R,MR,2,374600 R$,165,1310,Yes,No,Yes,No
+Ford,Fusion (NASCAR Academy),40.7,304,3.66,31.4,1.08,R,FR,1,400000 R$,20,342,No,No,No,No
+Ford,Falcon FG X (2016),46.1,306,3.55,44.8,1.34,R,FR(RHD),1,600 Gold,195,1480,No,No,No,No
+Ford,Falcon FG X (2017),48.8,307,3.56,44.8,1.42,R,FR(RHD),1,600 Gold,180,1510,No,No,No,No
+Ford,Falcon FG X (2018),49.0,309,3.54,44.5,1.44,R,FR(RHD),2,600 Gold,180,1510,No,No,No,No
+Ford,Fusion (Team Penske - 2015),44.1,319,3.62,30.5,1.11,S,FR,1,500 Gold,240,1560,No,No,No,No
+Ford,Fusion (Team Penske - 2016),44.1,317,3.56,29.9,1.08,S,FR,1,500 Gold,180,1560,No,No,No,No
+Ford,Fusion (Stewart-Haas Racing),43.5,322,3.50,30.5,1.02,S,FR,1,500 Gold,180,1560,No,No,No,No
+Ford,Fusion (2018),43.8,322,3.50,29.9,1.04,R,FR,1,500 Gold,180,1560,No,No,No,No
+Ford,Mustang (2019),45.7,325,3.50,30.2,1.10,R,FR,2,500 Gold,180,1560,No,No,No,No
+Ford,Shelby GT500 (2020),46.9,290,3.40,28.6,1.15,S,FR,3,450 Gold,180,1585,Yes,Yes,No,Yes
+Ford,Shelby GT350R R3 Spec,56.6,338,3.10,28.7,1.23,R,FR,1,450 Gold,180,1627,Yes,No,No,No
+Ford,GT (2017),57.5,348,3.20,29.3,1.28,S,MR,3,500 Gold,180,1665,Yes,Yes,No,No
+Ford,Mustang (Stewart-Haas Racing - 2020),43.8,293,3.49,29.9,1.11,R,FR,1,2150000 M$,180,0,No,No,No,No
+Ford,Mustang (Team Penske - 2020),43.8,292,3.46,29.9,1.10,R,FR,1,2150000 M$,180,0,No,No,No,No
+Ford,Mustang (Stewart-Haas Racing - 2021),45.4,296,3.46,29.3,1.13,R,FR,1,2150000 M$,180,0,No,No,No,No
+Ford,Mustang (Team Penske - 2021),45.4,296,3.43,29.3,1.12,R,FR,1,2150000 M$,180,0,No,No,No,No
+Ford,Mustang GT (2022),45.3,290,3.46,29.3,1.11,R,FR,1,2150000 M$,180,0,Yes,No,No,No
+Ford,GT Le Mans (2016),77.9,322,2.79,25.6,1.74,R,FR,1,650 Gold,285,1990,Yes,No,No,No
+Ford,GT Le Mans (2019),79.2,323,2.77,25.6,1.76,R,MR,2,680 Gold,180,1997,Yes,Yes,No,No
+Ford,Fusion (Richard Petty Motorsports),44.2,317,3.53,29.9,1.07,R,FR,1,3000000 R$,150,2062,No,No,No,No
+Formula 1,Mercedes-AMG GT R F1 Safety Car,43.3,317,3.60,29.3,1.05,R,FR,1,500000 M$,180,0,Yes,No,No,No
+Formula 1,F1 Academy Car,110.3,306,2.15,18.3,3.00,R,MR,1,0 M$,180,0,Yes,No,No,No
+Formula 1,Renault F1 Team R.S. 19,115.7,314,2.02,17.7,3.01,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Red Bull Racing RB15,115.8,311,2.05,17.4,3.05,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Toro Rosso STR14,115.7,311,2.07,17.4,3.02,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Scuderia Ferrari SF90,115.8,314,2.01,17.1,3.04,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Mercedes-AMG Petronas Motorsport F1 W10 EQ Power+,115.8,309,2.06,16.8,3.06,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Haas F1 Team VF-19,115.6,312,2.02,17.4,3.01,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Alfa Romeo Racing C38,115.6,312,2.02,17.1,3.02,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,McLaren F1 Team MCL34,115.7,314,2.02,16.8,3.04,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,SPScore Racing Point F1 Team RP19,115.6,311,2.06,17.4,3.02,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Rokit Williams Racing FW42,115.6,309,2.07,17.7,3.01,R,MR,2,2000000 M$,180,0,Yes,No,No,No
+Formula 1,Renault DP World F1 Team R.S. 20,115.8,312,2.07,16.5,3.03,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Aston Martin Red Bull Racing RB16,115.9,311,2.06,16.5,3.05,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Scuderia AlphaTauri Honda AT01,115.6,312,2.08,17.4,3.02,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Scuderia Ferrari SF1000,115.8,311,2.06,16.5,3.04,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Mercedes-AMG Petronas Formula One Team W11 EQ Performance,116.0,309,2.03,16.2,3.05,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Haas F1 Team VF-20,115.6,312,2.07,17.4,3.01,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Alfa Romeo Racing Orlen C39,115.6,315,2.10,17.7,3.01,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,McLaren F1 Team MCL35,115.8,312,2.06,16.5,3.04,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,BWT Racing Point F1 Team RP20,115.8,311,2.05,16.5,3.04,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Williams Racing FW43,115.6,314,2.10,17.4,3.01,R,MR,2,2500000 M$,180,0,Yes,No,No,No
+Formula 1,F1 R3 ESports Challenger,110.3,306,2.15,18.3,3.00,R,MR,1,2000000 M$,180,0,Yes,No,No,Yes
+Formula 1,Alpine F1 Team A521,115.7,312,2.07,16.5,3.02,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Red Bull Racing Honda RB16B,115.9,312,2.05,16.5,3.04,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Scuderia AlphaTauri Honda AT02,115.7,312,2.05,16.8,3.02,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Scuderia Ferrari SF21,115.7,311,2.06,16.8,3.03,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Mercedes-AMG Petronas Formula One Team W12,115.9,311,2.03,16.2,3.04,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Uralkali Haas F1 Team VF-21,115.5,309,2.10,17.1,3.00,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Alfa Romeo Racing Orlen C41,115.5,314,2.06,17.1,3.00,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,McLaren F1 Team MCL35M,115.7,312,2.06,16.5,3.03,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Aston Martin Cognizant Formula One Team AMR21,115.6,312,2.05,16.5,3.01,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,Williams Racing FW43B,115.5,314,2.09,17.1,3.00,R,MR,2,2500000 M$,180,0,Yes,No,No,Yes
+Formula 1,BWT Alpine F1 Team A522,115.7,312,2.07,16.5,2.92,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Oracle Red Bull Racing RB18,115.9,314,2.04,16.5,2.93,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Scuderia AlphaTauri AT03,115.7,312,2.05,16.8,2.92,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Scuderia Ferrari F1-75,115.9,311,2.04,16.2,2.94,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Mercedes-AMG Petronas Formula One Team W13,115.9,311,2.03,16.5,2.94,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Haas F1 Team VF-22,115.5,309,2.10,17.1,2.90,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Alfa Romeo Racing Orlen C42,115.5,314,2.05,16.8,2.91,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,McLaren F1 Team MCL36,115.7,312,2.05,16.5,2.93,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Aston Martin Aramco Cognizant Formula One Team AMR22,115.6,312,2.05,16.5,2.91,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula 1,Williams Racing FW44,115.5,314,2.09,17.1,2.90,R,MR,1,2500000 M$,180,0,Yes,No,No,No
+Formula E,SRT05E (Season 7),47.8,232,3.30,28.6,1.29,R,MR(MHD),1,1000000 M$,180,0,Yes,No,No,No
+Formula E,SRT05E (Season 6),46.5,229,3.40,28.6,1.29,R,MR(MHD),1,1000000 M$,180,0,Yes,No,No,No
+Formula E,SRT_01E (Season 3) (ABT Schaeffler FE02),33.4,225,3.80,30.8,1.08,R,MR(MHD),1,1500000 M$,180,0,Yes,No,No,No
+Formula E,SRT_01E (Season 3) (NextEV TCR Formula 002),33.4,224,3.90,29.9,1.09,R,MR(MHD),1,1500000 M$,180,0,Yes,No,No,No
+Formula E,SRT_01E (Season 3) (Renault Z.E. 16),33.4,229,3.90,30.2,1.09,R,MR(MHD),1,1500000 M$,180,0,Yes,No,No,No
+Formula E,SRT_01E (Season 4),33.4,227,3.90,29.3,1.07,R,MR(MHD),1,1500000 M$,180,0,Yes,No,No,No
+Formula E,SRT05E (Season 5),63.9,280,2.80,28.7,1.50,R,MR(MHD),1,1800000 M$,180,0,Yes,No,No,No
+Formula E,Envision Virgin Racing Audi E-Tron FE06,54.7,241,3.01,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Nio 333 FE Team Nio FE-006,54.7,237,2.98,27.7,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Mercedes-Benz EQ Formula E Team Mercedes-Benz EQ Sliver Arrow 01,54.7,240,3.00,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Geox Dragon Penske EV-4,54.7,237,2.98,27.7,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Audi Sport Abt Schaeffler Formula E Team Audi E-Tron FE06,54.7,241,3.01,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,DS Techeetah DS E-Tense FE20,54.7,241,3.01,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Tag Heuer Porsche Formula E Team Porsche 99X Electric,54.7,240,3.00,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Rokit Venturi Racing Mercedes-Benz EQ Silver Arrow 01,54.7,240,3.00,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Panasonic Jaguar Racing Jaguar I-Type 4,54.7,241,3.01,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Nissan E.Dams Nissan IM02,54.7,237,2.98,27.7,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,BMW I Andretti Motorsport BMW IFE.20,54.7,240,3.00,27.4,1.35,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Mahindra Racing Mahindra M6Electro,54.7,237,2.98,27.7,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Envision Virgin Racing Audi E-Tron FE07,55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Nio 333 FE Team Nio 333 001,55.8,243,2.98,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Mercedes-EQ Formula E Team Mercedes-EQ Silver Arrow 02,56.0,245,2.99,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Dragon/Penske Autosport Penske EV-5,55.8,243,2.98,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Audi Sport Abt Schaeffler Formula E Team Audi E-Tron FE07,55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,DS Techeetah DS E-Tense FE21,56.0,245,2.99,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Tag Heuer Porsche Formula E Team Porsche 99X Electric (Season 7),55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Rokit Venturi Racing Mercedes-EQ Silver Arrow 02,55.8,243,2.98,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Jaguar Racing Jaguar I-Type 5,55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Nissan E.Dams Nissan IM02 (Season 7),56.0,245,2.99,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,BMW I Andretti Motorsport BMW IFE.21,55.9,240,2.96,27.1,1.37,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Mahindra Racing Mahindra M7Electro,55.8,243,2.98,26.8,1.36,R,MR(MHD),1,2150000 M$,180,0,Yes,No,No,No
+Formula E,Envision Racing Audi E-Tron FE07,57.2,243,2.94,26.5,1.38,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Nio 333 Formula E Team Nio 333 001,57.1,246,2.96,26.2,1.37,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Mercedes-EQ Formula E Team Mercedes-EQ Silver Arrow 02 (Season 8),57.3,248,2.97,26.2,1.37,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Dragon/Penske Autosport Penske EV-5 (Season 8),57.1,246,2.96,26.2,1.37,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,DS Techeetah E-Tense FE21,57.3,248,2.97,26.2,1.37,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Tag Heuer Porsche Formula E Team 99X Electric,57.2,243,2.94,26.5,1.38,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Rokit Venturi Racing Mercedes-EQ Silver Arrow 02 (Season 8),57.2,243,2.94,26.5,1.38,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Jaguar TCS Racing Jaguar I-Type 5,57.3,248,2.97,26.2,1.37,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Nissan E.Dams Nissan IM03,57.1,246,2.96,26.2,1.37,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Avalanche Andretti Formula E BMW IFE.21,57.2,243,2.94,26.5,1.38,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Formula E,Mahindra Racing Mahindra M8Electro,57.1,246,2.96,26.2,1.37,R,MR(MHD),1,2250000 M$,180,0,Yes,No,No,Yes
+Hennessey,Venom GT,80.5,435,2.70,25.9,1.68,S,MR,3,950 Gold,180,1997,Yes,Yes,No,No
+Hennessey,Venom F5,84.5,502,2.52,25.9,1.69,S,MR,2,1000 Gold,180,2062,Yes,Yes,No,Yes
+Holden,Commodore VF (2016),46.1,309,3.61,45.1,1.36,R,FR(RHD),1,600 Gold,195,1480,No,No,No,No
+Holden,Commodore VF (2017),48.8,309,3.61,45.1,1.44,R,FR(RHD),1,600 Gold,180,1510,No,No,No,No
+Holden,Commodore VF (2018),49.0,309,3.60,44.5,1.46,R,FR(RHD),2,600 Gold,180,1510,No,No,No,No
+Honda,Integra Type-R,4.9,233,6.50,35.7,0.98,P,FF,1,120 Gold,180,832,Yes,No,No,No
+Honda,Civic Type-R,4.7,235,6.70,36.0,0.95,P,FF,2,80 Gold,180,832,Yes,Yes,No,Yes
+Honda,S2000 GT,5.1,240,5.80,34.4,0.95,P,FR,1,160 Gold,120,1082,Yes,No,No,No
+Honda,NSX-R,19.9,280,4.70,35.7,0.95,P,MR,3,200 Gold,175,1377,Yes,Yes,No,No
+Hyundai,Veloster Turbo,1.6,225,7.30,41.8,0.85,P,FF,2,22000 R$,5,285,Yes,No,No,No
+Hyundai,i20 WRC,43.2,249,3.60,30.5,1.25,R,F4,2,500000 R$,180,1415,Yes,No,No,No
+Jaguar,Lightweight E-Type,3.0,241,6.40,41.1,0.97,R,FR(RHD),2,180 Gold,150,1230,Yes,No,No,No
+Jaguar,XJ220,39.8,349,3.60,36.3,1.05,S,MR,3,400 Gold,180,1415,Yes,Yes,No,No
+Jaguar,F-Type SVR,45.3,322,3.50,30.5,1.10,P,F4,3,400 Gold,225,1665,Yes,Yes,No,No
+Jaguar,XE SV Project 8,52.8,322,3.30,28.0,1.20,P,F4,2,500 Gold,180,1730,Yes,No,No,No
+Jaguar,C-X75,66.8,354,2.90,29.6,1.46,S,M4,2,600 Gold,270,1897,Yes,Yes,No,Yes
+Jaguar,XJR-9,69.9,394,3.30,28.3,1.55,R,MR,1,800 Gold,180,1997,Yes,No,No,No
+Jaguar,C-X75 R3 Spec,79.7,389,2.61,25.9,1.62,R,M4,1,900 Gold,180,1997,Yes,No,No,No
+Koenigsegg,CCXR,66.9,402,3.10,32.0,1.45,S,MR,3,1999800 R$,275,1915,Yes,No,Yes,No
+Koenigsegg,Agera,72.6,433,3.00,30.5,1.50,S,MR,2,2210500 R$,280,1952,Yes,No,Yes,No
+Koenigsegg,Agera RS,82.1,447,2.60,28.3,1.60,S,MR,4,1000 Gold,180,1997,Yes,Yes,No,Yes
+Koenigsegg,Agera R,78.3,439,2.90,29.6,1.60,S,MR,5,800 Gold,300,2062,Yes,No,Yes,Yes
+Koenigsegg,One:1,81.1,439,2.50,25.3,1.75,S,MR,3,1100 Gold,180,2062,Yes,Yes,No,No
+Koenigsegg,Regera,80.6,410,2.70,27.4,1.62,S,MR,4,1000 Gold,180,2062,Yes,Yes,No,No
+Koenigsegg,Jesko,84.1,483,2.50,26.8,1.66,S,MR,1,1100 Gold,180,2062,Yes,Yes,No,Yes
+KTM,X-Bow R,46.6,232,3.80,32.0,1.50,S,RR,3,115 Gold,150,1247,Yes,No,Yes,No
+Lamborghini,Gallardo LP560-4,36.8,325,3.70,32.6,1.01,S,M4,4,168900 R$,110,1022,Yes,Yes,Yes,No
+Lamborghini,Gallardo LP560 GT3,45.6,330,3.40,31.1,1.05,R,M4,2,326000 R$,155,1260,Yes,No,Yes,No
+Lamborghini,Countach,20.0,298,5.20,32.3,0.98,S,MR,4,210 Gold,175,1365,Yes,No,No,No
+Lamborghini,Huracan LP610-4,50.7,325,3.20,30.8,1.17,S,M4,6,450 Gold,90,1377,Yes,No,No,No
+Lamborghini,Diablo SV,32.1,328,3.70,42.1,1.05,S,MR,1,400 Gold,180,1415,Yes,No,No,No
+Lamborghini,Murcielago R-SV GT1,56.9,341,3.10,31.7,1.23,R,M4,3,592100 R$,195,1475,Yes,No,Yes,No
+Lamborghini,Aventador LP700-4,50.9,349,2.90,30.5,1.06,S,M4,5,597700 R$,195,1480,Yes,No,Yes,No
+Lamborghini,Huracan Super Trofeo Evo,52.4,275,3.00,27.7,1.20,R,MR,1,460 Gold,180,1480,Yes,No,No,Yes
+Lamborghini,Miura,10.6,299,5.90,34.1,0.92,S,MR,2,490 Gold,195,1495,Yes,No,No,No
+Lamborghini,Asterion LP910-4,63.4,320,3.00,28.3,1.44,S,M4,5,650 Gold,225,1647,Yes,No,No,Yes
+Lamborghini,Huracan R3 Spec,64.4,362,2.90,27.4,1.31,R,M4,1,550 Gold,180,1812,Yes,No,No,Yes
+Lamborghini,Aventador SVJ,62.9,349,2.50,28.7,1.20,S,M4,5,750 Gold,180,1812,Yes,Yes,No,Yes
+Lamborghini,Huracan Performante,64.4,325,2.90,27.7,1.41,S,M4,3,560 Gold,180,1835,Yes,Yes,No,Yes
+Lamborghini,Huracan STO,65.1,311,2.90,29.0,1.50,S,MR,1,700 Gold,180,1877,Yes,No,No,Yes
+Lamborghini,Reventon,43.4,340,3.29,33.5,1.01,S,M4,1,750 Gold,180,1877,Yes,Yes,No,No
+Lamborghini,Sian FKP 37,67.5,354,2.70,29.0,1.40,S,M4,1,750 Gold,180,1915,Yes,Yes,No,Yes
+Lamborghini,Countach LPI 800-4,67.6,356,2.70,27.4,1.36,S,M4,1,750 Gold,180,1915,Yes,Yes,No,Yes
+Lamborghini,Essenza SCV12,69.3,298,2.70,28.3,1.60,R,MR,3,750 Gold,180,1942,Yes,Yes,No,No
+Lamborghini,Huracan GT3,65.2,280,3.03,29.3,1.63,R,MR,1,750 Gold,180,1990,Yes,No,No,No
+Lamborghini,Sesto Elemento,68.9,338,2.50,27.4,1.38,S,M4,3,850 Gold,150,1997,Yes,No,No,No
+Lamborghini,Centenario LP770-4,66.3,349,2.70,29.9,1.40,S,M4,2,850 Gold,180,1997,Yes,Yes,No,Yes
+Lamborghini,Veneno,70.3,354,2.80,29.9,1.42,S,M4,3,900 Gold,315,2157,Yes,Yes,Yes,Yes
+Lancia,LC2,82.5,385,2.80,28.3,1.80,R,MR,1,900 Gold,180,1997,Yes,No,No,No
+Lexus,IS 350 F Sport (2014),5.9,230,5.60,32.6,0.91,P,FR,2,44000 R$,25,535,Yes,No,No,No
+Lexus,IS F (2013),28.4,301,4.40,31.4,0.98,P,FR,2,62645 R$,45,662,Yes,No,Yes,No
+Lexus,LFA,46.7,325,3.60,28.7,1.05,S,FR,4,130 Gold,170,1335,Yes,No,Yes,No
+Lotus,Exige 360 Cup,42.5,274,3.60,29.9,1.15,R,MR,3,350 Gold,180,1415,Yes,No,No,No
+Lotus,3-Eleven,57.3,290,2.90,28.3,1.30,R,MR,1,400 Gold,180,1415,Yes,No,No,No
+Lotus,Type 125,96.2,330,2.65,17.7,2.85,R,MR(MHD),2,880 Gold,150,1997,Yes,Yes,No,No
+Lotus,Evija,83.8,340,2.30,29.3,1.93,S,M4,2,1100 Gold,180,2062,Yes,Yes,No,Yes
+Maserati,Granturismo MC Stradale,33.0,303,4.30,32.0,1.07,S,MR,3,390000 R$,165,1325,Yes,No,Yes,No
+Maserati,Granturismo MC Stradale (Limited),41.5,319,3.80,30.2,1.08,S,MR,1,360 Gold,185,1425,Yes,No,No,No
+Mazda,RX-3,0.1,185,7.70,42.1,0.80,P,FR,1,50 Gold,30,582,Yes,No,No,Yes
+Mazda,MX-5 (NA),0.1,195,8.50,43.6,0.86,P,FR,1,60 Gold,40,617,Yes,No,No,No
+Mazda,RX-7 Spirit R (FD),17.2,256,4.80,34.1,0.92,P,FR,3,175 Gold,75,832,Yes,Yes,No,No
+Mazda,MX-5 (ND),11.8,219,5.70,32.0,1.08,P,FR,1,240 Gold,165,1332,Yes,No,No,No
+Mazda,Furai,60.6,290,3.15,26.5,1.43,S,MR,2,700 Gold,180,1915,Yes,Yes,No,No
+Mazda,787B,68.9,351,3.34,29.9,1.68,R,MR,2,800 Gold,180,1997,Yes,No,No,No
+Mazda,RT24-P,78.5,322,2.77,25.6,1.75,R,MR,1,850 Gold,180,1997,Yes,No,No,No
+McLaren,MP4-12C,48.3,330,2.90,30.5,1.06,S,MR,5,65 Gold,140,1192,Yes,No,Yes,No
+McLaren,12C Spider,50.7,328,3.10,30.8,1.13,S,MR,1,300 Gold,90,1535,Yes,No,No,No
+McLaren,570GT,46.7,328,3.30,31.1,1.08,S,MR,2,400 Gold,210,1560,Yes,No,No,No
+McLaren,F1 GTR,51.1,362,3.90,30.2,1.30,R,MR(MHD),3,630 Gold,180,1665,Yes,No,Yes,No
+McLaren,F1,52.7,377,3.20,33.8,1.20,S,MR(MHD),4,1250000 R$,240,1745,Yes,No,Yes,No
+McLaren,720S GT3,65.4,283,3.04,29.6,1.62,R,RR,2,1300000 M$,180,0,Yes,Yes,No,Yes
+McLaren,P1,67.8,351,2.80,29.0,1.45,S,MR,4,1300000 R$,245,1760,Yes,Yes,Yes,No
+McLaren,675LT,54.3,330,2.80,29.0,1.09,S,MR,3,575 Gold,265,1867,Yes,No,No,No
+McLaren,600LT,54.8,332,2.90,29.6,1.15,S,MR,1,600 Gold,180,1870,Yes,No,No,No
+McLaren,720S Coupe,61.5,341,2.80,29.6,1.30,S,MR,5,650 Gold,180,1877,Yes,Yes,Yes,No
+McLaren,765LT,61.5,330,2.70,28.5,1.40,S,MR,2,650 Gold,180,1877,Yes,Yes,No,Yes
+McLaren,P1 GTR,78.8,362,2.40,25.9,1.55,R,MR,4,900 Gold,120,1997,Yes,Yes,Yes,No
+McLaren,650S GT3,60.8,333,2.90,28.0,1.29,R,MR,3,2500000 R$,120,1997,Yes,Yes,No,No
+McLaren,Senna,66.2,335,2.90,28.0,1.45,S,MR,3,850 Gold,180,1997,Yes,Yes,No,No
+McLaren,MP4/4,93.9,333,2.90,17.4,2.25,R,MR,3,950 Gold,180,2037,Yes,Yes,No,No
+McLaren,Senna GTR,79.5,362,2.80,25.9,1.70,S,MR,2,1000 Gold,180,2037,Yes,Yes,No,Yes
+McLaren,MP4-X,130.3,402,1.90,14.3,4.00,R,MR(MHD),2,1200 Gold,240,2117,Yes,Yes,No,No
+Mercedes-Benz,190E 2.5-16 Evolution II,3.5,249,6.90,41.5,1.09,P,FR,2,80 Gold,105,980,Yes,Yes,No,Yes
+Mercedes-AMG,A 45,30.5,249,4.20,32.3,1.10,P,F4,2,200 Gold,120,1082,Yes,No,No,Yes
+Mercedes-Benz,SLS AMG,37.1,317,3.80,30.5,0.98,S,FR,2,260000 R$,140,1177,Yes,No,Yes,No
+Mercedes-Benz,SL 65 AMG Black Series,38.3,319,3.80,32.0,1.00,S,FR,5,316000 R$,150,1247,Yes,No,Yes,No
+Mercedes-Benz,SLS AMG GT3,43.0,299,3.50,30.5,1.09,R,FR,2,140 Gold,180,1415,Yes,No,Yes,No
+Mercedes-AMG,C63S,33.3,290,3.80,35.1,1.03,R,FR,1,375 Gold,120,1480,Yes,No,No,Yes
+Mercedes-Benz,SLR McLaren 722,48.6,338,3.50,29.3,1.13,S,FR,1,450 Gold,180,1585,Yes,Yes,No,No
+Mercedes-AMG,GT3,60.2,328,3.00,27.4,1.30,R,FR,2,650 Gold,180,1665,Yes,Yes,No,No
+Mercedes-Benz,CLK-LM,56.0,360,3.40,30.5,1.30,R,MR,2,640 Gold,180,1665,Yes,Yes,No,Yes
+Mercedes-Benz,AMG CLK GTR Straßenversion,42.3,344,3.67,35.4,1.14,S,MR,1,650 Gold,180,1665,Yes,No,No,No
+Mercedes-AMG,GT Black Series,60.5,325,2.90,28.0,1.30,S,FR,1,750 Gold,120,1812,Yes,No,No,Yes
+Mercedes-AMG,GT4,48.3,272,4.05,31.1,1.46,R,FR,1,1000000 M$,180,0,Yes,No,No,No
+Mercedes-AMG,C 63 Touring Car,64.3,290,2.70,29.6,1.48,R,FR,2,1250000 M$,180,0,Yes,No,No,No
+Mercedes-Benz,C11,69.9,401,3.20,29.0,1.52,R,MR,2,800 Gold,180,1997,Yes,Yes,No,No
+Mitsubishi Motors,Lancer Evolution VI,5.3,238,5.00,39.0,0.98,P,F4,1,300 Gold,180,1415,Yes,No,No,No
+Nissan,Silvia (S15),1.7,243,5.50,34.4,0.85,P,FR(RHD),3,25700 R$,1,342,Yes,No,Yes,No
+Nissan,Skyline GT-R V-Spec (R34),2.5,257,5.80,36.6,0.88,P,FR(RHD),5,35600 R$,9,460,Yes,Yes,Yes,No
+Nissan,350Z (Z33),8.3,249,5.30,34.1,0.90,P,FR,5,47600 R$,30,565,Yes,No,Yes,No
+Nissan,Skyline 2000 GT-R (KPGC10),0.1,201,7.90,44.2,0.85,P,FR(RHD),1,50 Gold,30,582,Yes,No,No,No
+Nissan,370Z (Z34),19.1,275,5.10,32.6,0.95,P,FR,4,58500 R$,40,637,Yes,No,Yes,No
+Nissan,240Z (S30),0.6,201,8.00,41.1,0.93,P,FR,1,50 Gold,55,702,Yes,Yes,No,Yes
+Nissan,Skyline GT-R V-Spec (R33),2.3,251,5.90,37.2,0.91,P,F4,1,120 Gold,75,832,Yes,No,No,No
+Nissan,GT-R Premium (R35),46.2,311,2.80,30.8,1.05,S,F4,5,170000 R$,110,1025,Yes,No,Yes,No
+Nissan,300ZX (Z32),4.5,249,5.70,38.1,0.94,P,FR,2,180 Gold,135,1165,Yes,No,No,No
+Nissan,370Z Nismo (Z34),19.4,249,4.90,34.7,1.03,P,FR,4,260 Gold,175,1377,Yes,Yes,No,Yes
+Nissan,Skyline GT-R (R34) R3 Spec,32.5,298,4.80,31.7,1.22,R,FR,1,300 Gold,180,1377,Yes,No,No,No
+Nissan,Sumo Power GT GT-R GT1,55.0,320,3.10,30.2,1.28,R,FR(RHD),2,458700 R$,175,1382,Yes,No,Yes,No
+Nissan,JR Motorsports GT-R GT1,56.4,317,3.00,29.9,1.29,R,FR(RHD),3,459400 R$,175,1385,Yes,No,Yes,No
+Nissan,Skyline GT-R Group A (BNR32),37.8,306,4.70,34.4,1.40,R,F4(RHD),4,280 Gold,180,1415,Yes,No,No,No
+Nissan,240Z (S30) R3 Spec,27.8,266,4.70,33.5,1.17,R,F4,2,180 Gold,180,1415,Yes,No,No,No
+Nissan,Z,21.5,249,4.50,37.2,1.05,P,FR,1,275 Gold,180,1415,Yes,Yes,No,No
+Nissan,Nismo GT-R LM (BCNR33),23.9,251,5.40,29.3,1.20,P,FR,325 Gold,185,1432,Yes,No,No,No
+Nissan,Silvia (S15) R3 Spec,40.7,274,4.50,30.5,1.40,R,FR,4,300 Gold,60,1450,Yes,Yes,No,No
+Nissan,370Z (Z34) R3 Spec,41.2,282,4.20,30.5,1.30,R,FR,1,350 Gold,180,1450,Yes,No,No,No
+Nissan,Altima (2016),46.1,307,3.68,44.5,1.37,R,FR(RHD),1,600 Gold,175,1480,No,No,No,No
+Nissan,Altima (2017),48.8,307,3.66,44.5,1.44,R,FR(RHD),1,600 Gold,180,1510,No,No,No,No
+Nissan,Altima (2018),49.0,309,3.60,43.9,1.44,R,FR(RHD),2,600 Gold,180,1510,No,No,No,No
+Nissan,GT-R Nismo (R35),48.2,315,2.90,31.1,1.08,S,F4,1,520 Gold,180,1605,Yes,No,No,No
+Nissan,R390 GT1,52.8,354,3.80,29.6,1.32,R,MR,1,630 Gold,180,1665,Yes,No,No,No
+Nissan,Leaf Nismo RC,42.6,220,3.40,29.0,1.20,R,M4,1,600 Gold,180,1665,Yes,No,No,Yes
+Nissan,GT-R LM Nismo (2015),90.1,391,2.40,26.8,1.80,R,FF(RHD),2,950 Gold,180,1997,Yes,No,Yes,No
+Nissan,GT-R (R35) R3 Spec,70.0,354,2.50,26.5,1.35,R,FR,2,850 Gold,180,1997,Yes,Yes,No,No
+Pagani,Zonda F,55.8,346,3.60,30.2,1.40,S,MR,3,1280000 R$,245,1755,Yes,No,Yes,No
+Pagani,Huayra,65.4,357,3.30,29.9,1.60,S,MR,4,1358000 R$,245,1775,Yes,No,Yes,No
+Pagani,Zonda R,74.0,351,2.70,29.3,1.62,S,MR,6,400 Gold,280,1965,Yes,Yes,Yes,No
+Pagani,Huayra BC,80.8,370,2.30,29.0,1.66,S,RR,3,900 Gold,180,1997,Yes,Yes,No,Yes
+Porsche,911 Targa (1974),0.1,209,8.20,39.3,0.89,P,RR,1,53000 R$,35,602,Yes,No,No,No
+Porsche,911 Carrera 2 Speedster (1993),10.7,259,5.70,32.9,0.97,S,RR,2,135000 R$,95,940,Yes,No,No,No
+Porsche,911 Turbo (2009),43.8,311,3.40,30.5,1.05,S,R4,5,148000 R$,100,975,Yes,No,No,Yes
+Porsche,911 GT3 RS,34.8,311,4.00,30.2,0.99,P,RR,3,172700 R$,115,1030,Yes,No,Yes,No
+Porsche,911 GT3 RS 4.0,40.3,311,3.80,29.9,1.08,S,RR,2,185950 R$,115,1057,Yes,No,Yes,No
+Porsche,911 Carrera RS 3.8 (1995),20.7,277,5.00,32.3,0.99,S,RR,3,230000 R$,130,1132,Yes,No,No,No
+Porsche,911 GT3 Cup,42.1,330,3.40,30.5,1.03,R,RR,3,265500 R$,140,1185,Yes,No,Yes,No
+Porsche,911 GT2 (2003),35.9,319,4.00,31.1,1.00,S,RR,5,120 Gold,145,1205,Yes,No,No,Yes
+Porsche,911 Carrera RS 2.7 (1972),3.3,241,6.30,34.4,0.96,S,RR,3,300000 R$,150,1230,Yes,No,No,No
+Porsche,959 Sport,39.2,319,3.60,34.4,1.06,P,RR,2,320 Gold,165,1332,Yes,No,No,No
+Porsche,911 Carrera S,38.7,307,4.00,29.9,1.08,P,RR,3,320 Gold,165,1332,Yes,No,No,No
+Porsche,Cayman S,30.3,285,4.20,31.7,0.99,P,MR,2,290 Gold,170,1352,Yes,No,No,No
+Porsche,Cayman GT4,29.2,296,4.40,30.5,0.98,P,MR,4,280 Gold,170,1352,Yes,No,No,No
+Porsche,Carrera GT,44.4,330,3.80,30.8,0.99,S,MR,3,449900 R$,175,1375,Yes,No,Yes,No
+Porsche,Boxster GTS,40.6,278,4.40,31.1,1.18,P,MR,1,300 Gold,180,1415,Yes,No,No,No
+Porsche,718 RSK,10.8,261,5.10,37.2,0.92,R,MR,1,400 Gold,180,1415,Yes,No,No,No
+Porsche,918 RSR Concept,56.1,322,3.10,29.9,1.30,R,MR,4,150 Gold,190,1452,Yes,Yes,Yes,No
+Porsche,718 Cayman GT4 RS,46.2,315,3.29,31.4,1.10,R,MR,1,450 Gold,180,1585,Yes,Yes,No,Yes
+Porsche,911 RSR (2021),63.7,262,3.40,25.6,1.65,R,MR,1,1950000 M$,180,0,Yes,No,No,No
+Porsche,911 RSR (2020),63.7,262,3.40,25.6,1.65,R,MR,1,1950000 M$,180,0,Yes,No,No,No
+Porsche,909 Bergspyder,50.3,249,2.40,29.3,1.05,R,MR,1,400 Gold,180,1585,Yes,No,No,No
+Porsche,918 Spyder Concept,60.2,322,3.00,30.2,1.40,S,M4,7,845000 R$,215,1605,Yes,No,Yes,No
+Porsche,918 Spyder Weissach Package,70.4,344,2.50,28.7,1.45,S,MR,3,700 Gold,225,1647,Yes,No,No,No
+Porsche,911 GT1 Straßenversion,42.3,312,3.77,33.5,1.20,S,MR,1,650 Gold,180,1665,Yes,No,No,No
+Porsche,Taycan Turbo S,42.9,259,2.80,33.5,1.04,S,M4,2,600 Gold,180,1665,Yes,Yes,No,No
+Porsche,911 GT1-98,56.6,357,3.40,29.9,1.31,R,MR,3,650 Gold,180,1665,Yes,Yes,No,No
+Porsche,911 GT3 RSR (997),57.0,291,3.68,29.0,1.55,R,FR,1,1900000 M$,180,0,Yes,No,No,No
+Porsche,935 (1979),52.1,340,3.30,33.5,1.28,R,RR,1,650 Gold,180,1665,Yes,No,No,No
+Porsche,911 GT3 R,65.3,277,3.05,29.3,1.67,R,RR,3,1300000 M$,180,0,Yes,Yes,No,Yes
+Porsche,911 GT3 (2021),49.3,319,3.40,28.6,1.15,P,RR,2,525 Gold,180,1787,Yes,Yes,No,Yes
+Porsche,919 Hybrid (2014),90.2,362,2.63,25.0,2.00,R,M4,2,950 Gold,120,1812,Yes,No,Yes,No
+Porsche,911 GT3 RS (2018),55.4,312,3.10,28.0,1.24,S,RR,2,600 Gold,180,1812,Yes,No,No,Yes
+Porsche,911 Turbo S,79.2,330,2.60,26.8,1.40,S,R4,1,725 Gold,180,1977,Yes,Yes,No,Yes
+Porsche,911 RSR (2013),74.4,296,2.70,26.8,1.70,R,RR,2,600 Gold,265,1877,Yes,No,No,No
+Porsche,718 Cayman GT4 Clubsport,48.4,272,4.15,30.2,1.49,R,MR,2,1000000 M$,180,0,Yes,No,No,No
+Porsche,RS Spyder Evo,71.7,266,3.05,25.9,1.78,R,MR,1,2000000 M$,180,0,Yes,No,No,No
+Porsche,911 RSR (2014),74.4,306,2.70,26.8,1.70,R,RR,2,600 Gold,285,1982,Yes,No,No,No
+Porsche,911 RSR (2015),75.6,317,2.68,26.5,1.72,R,RR,2,600 Gold,285,1990,Yes,No,No,No
+Porsche,911 RSR (2016),77.5,319,2.74,26.8,1.75,R,RR,1,650 Gold,285,1990,Yes,No,No,No
+Porsche,911 RSR (2017),78.2,320,2.74,26.5,1.76,R,MR,1,680 Gold,180,1990,Yes,No,No,No
+Porsche,911 RSR (2018),79.1,320,2.74,26.2,1.78,R,MR,1,680 Gold,180,1990,Yes,No,No,No
+Porsche,911 RSR (2019),79.2,320,2.74,26.2,1.78,R,MR,1,680 Gold,180,1990,Yes,No,No,No
+Porsche,917K,62.1,354,3.00,29.6,1.35,R,MR,1,670 Gold,180,1997,Yes,No,No,No
+Porsche,962C,70.5,349,2.97,29.3,1.60,R,MR,1,800 Gold,180,1997,Yes,No,No,No
+Porsche,936/77 Spyder,66.4,360,2.98,29.3,1.45,R,MR,2,740 Gold,180,1997,Yes,Yes,No,No
+Porsche,911 GT2 RS,73.1,386,2.70,29.3,1.50,S,RR,3,800 Gold,180,1997,Yes,Yes,No,No
+Porsche,911 GT2 RS Clubsport,74.1,340,2.60,28.7,1.60,R,FR,3,825 Gold,180,1997,Yes,Yes,No,Yes
+Porsche,919 Hybrid (2015),90.5,377,2.58,24.4,2.07,R,MR,2,950 Gold,180,1997,Yes,No,Yes,No
+Porsche,935 (2019),75.3,343,2.67,28.6,1.65,R,RR,2,850 Gold,180,1997,Yes,Yes,No,Yes
+Porsche,911 GT2 RS Clubsport 25,77.4,346,2.58,28.0,1.66,R,RR,1,900 Gold,180,2030,Yes,No,No,Yes
+Porsche,919 Hybrid Evo,110.5,370,2.02,16.8,2.90,R,M4,2,1150 Gold,180,2090,Yes,Yes,No,No
+Renault,Clio Cup,5.7,238,5.80,36.3,0.99,S,FF,2,40 Gold,40,630,Yes,No,No,Yes
+Renault,Megane R.S. 275 Trophy-R,14.1,254,5.80,34.1,1.15,P,FF(RHD),2,95 Gold,90,647,Yes,No,No,No
+Renault,Dezir Concept,11.1,180,5.00,35.1,1.01,S,MR,1,260 Gold,170,1352,Yes,No,No,Yes
+Renault,R.S. 01,66.8,325,3.00,27.1,1.50,S,MR,3,2100000 R$,275,1932,Yes,Yes,Yes,No
+Shelby,Cobra GT500 (1967),3.4,222,6.20,48.8,0.80,P,FR,3,80 Gold,130,1125,Yes,No,Yes,No
+Shelby,Cobra 427 (1966),23.1,266,4.20,36.6,0.95,S,FR,3,180 Gold,195,1480,Yes,No,Yes,No
+Spada,Codatronca TS,56.3,340,2.95,28.7,1.17,S,FR,1,690000 R$,205,1530,Yes,No,No,No
+Spada,Codatronca Barchetta,57.5,335,2.78,29.3,1.18,S,FR,1,270 Gold,205,1550,Yes,No,No,No
+SRT,Viper GTS,42.4,332,3.50,32.3,1.06,S,FR,3,176000 R$,115,1037,Yes,No,Yes,No
+Subaru,Impreza 22B-STI Version,5.4,229,4.90,38.1,0.99,P,F4,1,300 Gold,180,1415,Yes,No,No,No
+Toyota,Camry (Sunoco),41.0,314,3.70,31.1,1.07,R,FR,1,720000 R$,30,1545,No,No,No,No
+Toyota,Camry (Joe Gibbs Racing - 2015),44.1,315,3.59,30.2,1.10,S,FR,1,500 Gold,180,1560,No,No,No,No
+Toyota,Camry (Joe Gibbs Racing - 2016),44.2,319,3.58,30.2,1.09,S,FR,1,500 Gold,180,1560,No,No,No,No
+Toyota,Camry (Joe Gibbs Racing - 2017),43.5,320,3.50,29.9,1.02,S,FR,1,500 Gold,180,1560,No,No,No,No
+Toyota,Camry (2018),43.8,322,3.50,30.2,1.05,S,FR,1,500 Gold,180,1560,No,No,No,No
+Toyota,Camry (2019),45.7,327,3.50,30.2,1.09,R,FR,2,500 Gold,180,1560,No,No,No,No
+Toyota,Camry (Joe Gibbs Racing - 2020),43.8,295,3.48,29.9,1.10,R,FR,1,2150000 M$,180,0,No,No,No,No
+Toyota,Camry (Joe Gibbs Racing - 2021),45.4,298,3.45,29.3,1.12,R,FR,1,2150000 M$,180,0,No,No,No,No
+Toyota,Camry (23XI Racing - 2021),45.4,301,3.42,29.3,1.10,R,FR,1,2150000 M$,180,0,No,No,No,No
+Toyota,Camry TRD (2022),45.3,293,3.44,29.3,1.10,R,FR,1,2150000 M$,180,0,Yes,No,No,No
+Toyota,TS040 Hybrid (2014),89.4,394,2.50,26.2,1.82,R,M4,2,950 Gold,325,2192,Yes,No,Yes,No
+Volkswagen,Golf GTI (2021),15.4,249,5.10,33.8,0.97,P,FF,1,300 Gold,180,1377,Yes,No,No,Yes
+Volkswagen,XL Sport,23.7,270,5.50,32.0,1.25,R,M4,1,350 Gold,180,1415,Yes,No,No,Yes
+Volkswagen,ID.R,107.5,269,2.25,19.8,2.45,R,MR,2,1100 Gold,180,2062,Yes,Yes,No,Yes
