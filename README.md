@@ -1,7 +1,7 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(14).png)
+![Real Racing 3](Images/real_racing_3_image(15).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9+ years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 2.7.1
+**Latest Dataset Version:** 2.7.2
 
-**Last Updated:** 4th March 2023
+**Last Updated:** 12th April 2023
 
-**Vehicle Roster Dependency:** Game Version 11.1 - 10 Year Anniversary
+**Vehicle Roster Dependency:** Game Version 11.2 - Pagani Huayra R Update
 
 ## Features
 
@@ -62,8 +62,9 @@ Data analyses are available in separate parts. You can click on the links in the
 
 ## My Vehicle Wishlist
 
-By thw way, I'd like to see these vehicles to be purchasable and driveable in the next updates of Real Racing 3! So, here's my wishlist:
+By the way, I'd like to see these vehicles to be purchasable and driveable in the next updates of Real Racing 3! So, here's my wishlist:
 
+- [ ] Abarth 124 Spider
 - [ ] Abarth 500
 - [ ] Alfa Romeo Giulia GTAm
 - [ ] Alpine A110 (2017)
@@ -75,8 +76,10 @@ By thw way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] BMW i8
 - [X] ~~BMW M4 Coupe~~
 - [ ] Bugatti Centodieci
+- [ ] Ferrari 296 GTB
+- [ ] Ferrari 812 GTS
 - [ ] Ferrari F2004
-- [ ] Ferrari Monza SP1
+- [ ] Ferrari Monza SP2
 - [ ] Ferrari Roma
 - [ ] Ford Focus RS (2017)
 - [X] ~~Ferrari SF90 Stradale~~
@@ -86,6 +89,7 @@ By thw way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Koenigsegg Gemera
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
+- [ ] Lamborghini Revuelto
 - [ ] Lancia Delta HT Integrale
 - [ ] LMP1 Prototypes 2022 Season
 - [ ] Lotus Elise
