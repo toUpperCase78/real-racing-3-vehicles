@@ -1,7 +1,7 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(15).png)
+![Real Racing 3](Images/real_racing_3_image(16).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9+ years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 2.7.2
+**Latest Dataset Version:** 2.7.3
 
-**Last Updated:** 12th April 2023
+**Last Updated:** 13th May 2023
 
-**Vehicle Roster Dependency:** Game Version 11.2 - Pagani Huayra R Update
+**Vehicle Roster Dependency:** Game Version 11.3 - Ferrari Monza SP1 Update
 
 ## Features
 
@@ -74,18 +74,19 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Audi Quattro S1 Rally
 - [X] ~~Audi R8 (New Gen.)~~
 - [ ] BMW i8
+- [X] ~~BMW M3 GTR (NFS:MW)~~
 - [X] ~~BMW M4 Coupe~~
 - [ ] Bugatti Centodieci
-- [ ] Ferrari 296 GTB
+- [X] ~~Ferrari 296 GTB~~
 - [ ] Ferrari 812 GTS
 - [ ] Ferrari F2004
-- [ ] Ferrari Monza SP2
+- [X] ~~Ferrari Monza SP1~~
 - [ ] Ferrari Roma
 - [ ] Ford Focus RS (2017)
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
 - [ ] Formula 1 2022 Season Safety Cars (Mercedes-AMG & Aston Martin)
-- [ ] Honda Civic Type-R (2010s)
+- [ ] Honda Civic Type-R (Latest Gen)
 - [ ] Koenigsegg Gemera
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
@@ -111,6 +112,6 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Renault R26
 - [ ] Subaru BRZ
 - [ ] Subaru Impreza WRX STI (any 2nd-5th Gen.)
-- [ ] Toyota Supra (MkV)
+- [ ] Toyota Supra (Mk V)
 
 ## AS ALWAYS, KEEP RACING!
