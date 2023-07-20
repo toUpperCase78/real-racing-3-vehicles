@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 2.7.3
+**Latest Dataset Version:** 2.7.4
 
-**Last Updated:** 13th May 2023
+**Last Updated:** 18th July 2023
 
-**Vehicle Roster Dependency:** Game Version 11.3 - Ferrari Monza SP1 Update
+**Vehicle Roster Dependency:** Game Version 11.4 - Radical SR10 XXR Update
 
 ## Features
 
@@ -87,12 +87,13 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Formula 1 2022 Season~~
 - [ ] Formula 1 2022 Season Safety Cars (Mercedes-AMG & Aston Martin)
 - [ ] Honda Civic Type-R (Latest Gen)
+- [ ] Koenigsegg CC850
 - [ ] Koenigsegg Gemera
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
 - [ ] Lamborghini Revuelto
 - [ ] Lancia Delta HT Integrale
-- [ ] LMP1 Prototypes 2022 Season
+- [ ] LMP1 Prototypes 2023 Season
 - [ ] Lotus Elise
 - [ ] Lotus Evora
 - [ ] Maserati MC12
@@ -101,6 +102,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Mazda RX-8
 - [ ] McLaren Artura
 - [ ] McLaren MP4-13
+- [ ] McLaren Solus GT
 - [ ] Mercedes-AMG Project One
 - [ ] Mini John Cooper Works
 - [ ] Mitsubishi Lancer Evolution IX
