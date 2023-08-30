@@ -19,7 +19,7 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 **Last Updated:** 30th August 2023
 
-**Vehicle Roster Dependency:** Game Version 11.5 - Prosche Mission R Update
+**Vehicle Roster Dependency:** Game Version 11.5 - Porsche Mission R Update
 
 ## Features
 
