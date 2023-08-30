@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 2.7.4
+**Latest Dataset Version:** 2.7.5
 
-**Last Updated:** 18th July 2023
+**Last Updated:** 30th August 2023
 
-**Vehicle Roster Dependency:** Game Version 11.4 - Radical SR10 XXR Update
+**Vehicle Roster Dependency:** Game Version 11.5 - Prosche Mission R Update
 
 ## Features
 
@@ -85,7 +85,8 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Ford Focus RS (2017)
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
-- [ ] Formula 1 2022 Season Safety Cars (Mercedes-AMG & Aston Martin)
+- [X] ~~Formula 1 2023 Season~~ 
+- [ ] Formula 1 2023 Season Safety Cars (Mercedes-AMG & Aston Martin)
 - [ ] Honda Civic Type-R (Latest Gen)
 - [ ] Koenigsegg CC850
 - [ ] Koenigsegg Gemera
