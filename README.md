@@ -1,9 +1,9 @@
 # real-racing-3-vehicles
 **Dataset for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(16).png)
+![Real Racing 3](Images/real_racing_3_image(17).png)
 
-I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 9+ years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
+I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 10 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
 Meanwhile, as a Data Science enthusiast, here I've created these datasets that list all the vehicles appeared in the game; also including those that no longer available for purchase. 
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 2.7.5
+**Latest Dataset Version:** 3.0.0
 
-**Last Updated:** 30th August 2023
+**Last Updated:** 14th September 2023
 
-**Vehicle Roster Dependency:** Game Version 11.5 - Porsche Mission R Update
+**Vehicle Roster Dependency:** Game Version 11.6 - Formula 1 2023 Season Update
 
 ## Features
 
@@ -41,6 +41,7 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
 * `In Season 1` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1
+* `In Season 2` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 2
 
 ## My Data Analyses
 
