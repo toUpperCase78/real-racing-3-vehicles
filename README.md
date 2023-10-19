@@ -1,5 +1,5 @@
-# real-racing-3-vehicles
-**Dataset for All Vehicles in Real Racing 3**
+# Real Racing 3 Vehicles
+**Datasets & Analyses for All Vehicles in Real Racing 3**
 
 ![Real Racing 3](Images/real_racing_3_image(17).png)
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.0.0
+**Latest Dataset Version:** 3.0.2
 
-**Last Updated:** 14th September 2023
+**Last Updated:** 19th October 2023
 
-**Vehicle Roster Dependency:** Game Version 11.6 - Formula 1 2023 Season Update
+**Vehicle Roster Dependency:** Game Version 11.7 - Porsche 963 LMDh Update
 
 ## Features
 
@@ -63,7 +63,7 @@ Data analyses are available in separate parts. You can click on the links in the
 
 ## My Vehicle Wishlist
 
-By the way, I'd like to see these vehicles to be purchasable and driveable in the next updates of Real Racing 3! So, here's my wishlist:
+By the way, I'd like to see these vehicles to be purchasable and driveable in the future updates of Real Racing 3! Here's my wishlist:
 
 - [ ] Abarth 124 Spider
 - [ ] Abarth 500
@@ -95,7 +95,6 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Lamborghini Egoista
 - [ ] Lamborghini Revuelto
 - [ ] Lancia Delta HT Integrale
-- [ ] LMP1 Prototypes 2023 Season
 - [ ] Lotus Elise
 - [ ] Lotus Evora
 - [ ] Maserati MC12
@@ -110,6 +109,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Mitsubishi Lancer Evolution IX
 - [ ] Mitsubishi Lancer Evolution X
 - [X] ~~Nissan Z~~
+- [ ] Peugeot 9X8
 - [X] ~~Porsche 911 Carrera (992)~~
 - [ ] Porsche 911 RSR (2022)
 - [ ] Porsche 911 RSR (2023)
