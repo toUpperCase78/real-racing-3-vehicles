@@ -21,7 +21,7 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 **Vehicle Roster Dependency:** Game Version 11.7 - Porsche 963 LMDh Update
 
-## Features
+## Dataset Features
 
 **The latest dataset contains these features below for each vehicle:**
 * `Manufacturer` : The manufacturer name (or motorsport discipline)
@@ -42,6 +42,12 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
 * `In Season 1` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1
 * `In Season 2` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 2
+
+## Additional Dataset
+
+In the meantime, an additional dataset was uploaded, containing all the series across all different disciplines and tiers from **Motorsports** and **Road Collection** (including special career series and exclusive series) for the latest version of Real Racing 3. 
+
+Each row represents the main tab, name of the group, name of the series and individual vehicle with the manufacturer-model name belonging to that series. So, please make sure taking a look at the new dataset to observe the eligibility of any vehicle you enjoy!
 
 ## My Data Analyses
 
