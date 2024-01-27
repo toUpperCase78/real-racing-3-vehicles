@@ -1,11 +1,11 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(19).png)
+![Real Racing 3](Images/real_racing_3_image(20).png)
 
 I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 10 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
-Meanwhile, as a Data Science enthusiast, here I've created these datasets that list all the vehicles appeared in the game; also including those that no longer available for purchase. 
+Meanwhile, as a Data Science enthusiast, here I've created these datasets that list all the vehicles appeared in the game for each version; also including those that no longer available for purchase. 
 
 I started this repository project from **game version 8.0**. Here, you can find vehicle datasets for all individual versions and data analyses await for valuable insights in the upcoming days!
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.0.4
+**Latest Dataset Version:** 3.0.5
 
-**Last Updated:** 3rd December 2023
+**Last Updated:** 27th January 2024
 
-**Vehicle Roster Dependency:** Game Version 12.0 - NASCAR 2023 Update
+**Vehicle Roster Dependency:** Game Version 12.1 - Pagani Utopia Update
 
 ## Dataset Features
 
@@ -107,7 +107,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Maserati MC20
 - [X] ~~Mazda MX-5 (ND)~~
 - [ ] Mazda RX-8
-- [ ] McLaren Artura
+- [X] ~~McLaren Artura~~
 - [ ] McLaren MP4-13
 - [ ] McLaren Solus GT
 - [ ] Mercedes-AMG Project One
