@@ -1,9 +1,9 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(20).png)
+![Real Racing 3](Images/real_racing_3_image(21).png)
 
-I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 10 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
+Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
 Meanwhile, as a Data Science enthusiast, here I've created these datasets that list all the vehicles appeared in the game for each version; also including those that no longer available for purchase. 
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.0.5
+**Latest Dataset Version:** 3.0.7
 
-**Last Updated:** 27th January 2024
+**Last Updated:** 13th March 2024
 
-**Vehicle Roster Dependency:** Game Version 12.1 - Pagani Utopia Update
+**Vehicle Roster Dependency:** Game Version 12.2 - Koenigsegg Jesko Absolut Update
 
 ## Dataset Features
 
@@ -75,6 +75,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Abarth 500
 - [ ] Alfa Romeo Giulia GTAm
 - [ ] Alpine A110 (2017)
+- [ ] Aston Martin DB5
 - [ ] Aston Martin DB11
 - [ ] Aston Martin Superleggera DBS
 - [ ] Aston Martin Zagato
@@ -85,6 +86,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~BMW M4 Coupe~~
 - [ ] Bugatti Centodieci
 - [X] ~~Ferrari 296 GTB~~
+- [ ] Ferrari 499P
 - [ ] Ferrari 812 GTS
 - [ ] Ferrari F2004
 - [X] ~~Ferrari Monza SP1~~
@@ -92,8 +94,9 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Ford Focus RS (2017)
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
-- [X] ~~Formula 1 2023 Season~~ 
-- [ ] Formula 1 2023 Season Safety Cars (Mercedes-AMG & Aston Martin)
+- [X] ~~Formula 1 2023 Season~~
+- [ ] Formula 1 2024 Season
+- [ ] Formula 1 2024 Season Safety Cars (Mercedes-AMG & Aston Martin)
 - [ ] Honda Civic Type-R (Latest Gen)
 - [ ] Koenigsegg CC850
 - [ ] Koenigsegg Gemera
@@ -123,5 +126,6 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Subaru BRZ
 - [ ] Subaru Impreza WRX STI (any 2nd-5th Gen.)
 - [ ] Toyota Supra (Mk V)
+- [ ] W Motors Lykan Hypersport
 
 ## AS ALWAYS, KEEP RACING!
