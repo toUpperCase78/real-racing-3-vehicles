@@ -266,6 +266,7 @@ Motorsports,Endurance GT Racing,1960s Endurance Racing (Endurance GT Racing),Che
 Motorsports,Endurance GT Racing,1960s Endurance Racing (Endurance GT Racing),Ferrari,250 GTO
 Motorsports,Endurance Prototypes,Prototypes Exhibition,Mazda,787B
 Motorsports,Endurance Prototypes,LMDh 2023 Season,Porsche,963 LMDh
+Motorsports,Endurance Prototypes,LMDh 2023 Season,BMW,M Hybrid V8
 Motorsports,Endurance Prototypes,Prototypes 2015 Season,Nissan,GT-R LM Nismo (2015)
 Motorsports,Endurance Prototypes,Prototypes 2015 Season,Audi,R18 E-Tron Quattro (2015)
 Motorsports,Endurance Prototypes,Prototypes 2015 Season,Porsche,919 Hybrid (2015)
@@ -331,7 +332,14 @@ Road Collection,Season 2,Style from the Isles,McLaren,12C Spider
 Road Collection,Season 2,Style from the Isles,Jaguar,F-Type SVR
 Road Collection,Season 2,Style from the Isles,Lotus,Emira
 Road Collection,Season 2,Old Soul,Morgan,Plus Six
-Road Collection,Season 2,Future Forward,McLaren,Artura
+Road Collection,Season 3,Future Forward,McLaren,Artura
+Road Collection,Season 3,Acura Ascension,Acura,NSX Type S
+Road Collection,Season 3,Let's Go Jesko!,Koenigsegg,Jesko
+Road Collection,Season 3,Let's Go Jesko!,Koenigsegg,Jesko Absolut
+Road Collection,Season 3,Rarest of the Rare,McLaren,12C Spider
+Road Collection,Season 3,Rarest of the Rare,Aston Martin,One-77
+Road Collection,Season 3,Rarest of the Rare,Pagani,Utopia
+Road Collection,Season 3,Sporty Elegance,BMW,Z4 M40i
 Road Collection,Season 1,Deutsch Duell II,Mercedes-AMG,A 45
 Road Collection,Season 1,Deutsch Duell II,Audi,RS 5 Coupe
 Road Collection,Season 1,Deutsch Duell II,BMW,M2 Competition
@@ -987,6 +995,7 @@ Road Collection,Exclusive Series,BMW M3 GTS (Exclusive Series),BMW,M3 GTS
 Road Collection,Exclusive Series,Audi RS 5 Coupe (Exclusive Series),Audi,RS 5 Coupe
 Road Collection,Exclusive Series,Dodge Challenger SRT Hellcat (Exclusive Series),Dodge,Challenger SRT Hellcat
 Road Collection,Exclusive Series,Lamborghini Gallardo LP560-4 (Exclusive Series),Lamborghini,Gallardo LP560-4
+Road Collection,Exclusive Series,Nissan Skyline GT-R Group A (BNR32) (Exclusive Series),Nissan,Skyline GT-R Group A (BNR32)
 Road Collection,Exclusive Series,Alfa Romeo 155 V6 TI (Exclusive Series),Alfa Romeo,155 V6 TI
 Road Collection,Exclusive Series,Jaguar XJ220 (Exclusive Series),Jaguar,XJ220
 Road Collection,Exclusive Series,Audi TT RS Coupe (2019) (Exclusive Series),Audi,TT RS Coupe (2019)
@@ -1105,3 +1114,5 @@ Road Collection,Exclusive Series,Morgan Plus Six (Exclusive Series),Morgan,Plus 
 Road Collection,Exclusive Series,Audi R18 E-Tron Quattro (2015) (Exclusive Series),Audi,R18 E-Tron Quattro (2015)
 Road Collection,Exclusive Series,Pagani Utopia (Exclusive Series),Pagani,Utopia
 Road Collection,Exclusive Series,Porsche 962C (Exclusive Series),Porsche,962C
+Road Collection,Exclusive Series,Ferrari 296 GTB (Exclusive Series),Ferrari,296 GTB
+Road Collection,Exclusive Series,Koenigsegg Jesko Absolut (Exclusive Series),Koenigsegg,Jesko Absolut
