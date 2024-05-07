@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.0.7
+**Latest Dataset Version:** 3.0.9
 
-**Last Updated:** 13th March 2024
+**Last Updated:** 7th May 2024
 
-**Vehicle Roster Dependency:** Game Version 12.2 - Koenigsegg Jesko Absolut Update
+**Vehicle Roster Dependency:** Game Version 12.3 - Rimac Nevera Update
 
 ## Dataset Features
 
@@ -85,6 +85,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~BMW M3 GTR (NFS:MW)~~
 - [X] ~~BMW M4 Coupe~~
 - [ ] Bugatti Centodieci
+- [ ] Ferrari 12Cilindri
 - [X] ~~Ferrari 296 GTB~~
 - [ ] Ferrari 499P
 - [ ] Ferrari 812 GTS
@@ -120,9 +121,10 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Nissan Z~~
 - [ ] Peugeot 9X8
 - [X] ~~Porsche 911 Carrera (992)~~
-- [ ] Porsche 911 RSR (2022)
-- [ ] Porsche 911 RSR (2023)
+- [ ] Porsche 911 RSR (2024)
 - [ ] Renault R26
+- [X] ~~Rimac Nevera~~
+- [ ] Saleen S7
 - [ ] Subaru BRZ
 - [ ] Subaru Impreza WRX STI (any 2nd-5th Gen.)
 - [ ] Toyota Supra (Mk V)
