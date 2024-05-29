@@ -1,7 +1,7 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(22).png)
+![Real Racing 3](Images/real_racing_3_image(23).png)
 
 Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.0.9
+**Latest Dataset Version:** 3.0.10
 
-**Last Updated:** 7th May 2024
+**Last Updated:** 29th May 2024
 
-**Vehicle Roster Dependency:** Game Version 12.3 - Rimac Nevera Update
+**Vehicle Roster Dependency:** Game Version 12.4 - 24h of Le Mans Update
 
 ## Dataset Features
 
@@ -78,6 +78,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Aston Martin DB5
 - [ ] Aston Martin DB11
 - [ ] Aston Martin Superleggera DBS
+- [ ] Aston Martin Vantage (2024)
 - [ ] Aston Martin Zagato
 - [ ] Audi Quattro S1 Rally
 - [X] ~~Audi R8 (New Gen.)~~
@@ -87,7 +88,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Bugatti Centodieci
 - [ ] Ferrari 12Cilindri
 - [X] ~~Ferrari 296 GTB~~
-- [ ] Ferrari 499P
+- [X] ~~Ferrari 499P~~
 - [ ] Ferrari 812 GTS
 - [ ] Ferrari F2004
 - [X] ~~Ferrari Monza SP1~~
