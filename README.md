@@ -1,7 +1,7 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(24).png)
+![Real Racing 3](Images/real_racing_3_image(25).png)
 
 Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.1.2
+**Latest Dataset Version:** 3.3.0
 
-**Last Updated:** 8th August 2024
+**Last Updated:** 7th September 2024
 
-**Vehicle Roster Dependency:** Game Version 12.5 - Koenigsegg Gemera
+**Vehicle Roster Dependency:** Game Version 12.6 - Formula 1 2024 Update
 
 ## Dataset Features
 
@@ -42,10 +42,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
 * `In Season 1` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1
 * `In Season 2` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 2
+* `In Season 3` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 3
 
 ## Additional Dataset
 
-In the meantime, an additional dataset was uploaded, containing all the series across all different disciplines and tiers from **Motorsports** and **Road Collection** (including special career series and exclusive series) for the latest version of Real Racing 3. 
+In the meantime, an additional dataset can be seen in the repo, containing all the series across all different disciplines and tiers from **Motorsports** and **Road Collection** (including special career series and exclusive series) for the latest version of Real Racing 3. 
 
 Each row represents the main tab, name of the group, name of the series and individual vehicle with the manufacturer-model name belonging to that series. So, please make sure taking a look at the new dataset to observe the eligibility of any vehicle you enjoy!
 
@@ -98,7 +99,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
 - [X] ~~Formula 1 2023 Season~~
-- [ ] Formula 1 2024 Season
+- [X] ~~Formula 1 2024 Season~~
 - [ ] Formula 1 2024 Season Safety Cars (Mercedes-AMG & Aston Martin)
 - [ ] Honda Civic Type-R (Latest Gen)
 - [ ] Koenigsegg CC850
@@ -106,6 +107,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
 - [ ] Lamborghini Revuelto
+- [ ] Lamborghini Temerario
 - [ ] Lancia Delta HT Integrale
 - [ ] Lotus Elise
 - [ ] Lotus Evora
