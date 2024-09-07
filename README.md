@@ -37,8 +37,8 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `Price` : The value for purchasing the vehicle with the related currrency type (`R$`, `Gold` or `M$`)
 * `Service Time` : Required total servicing time (in minutes)
 * `Service Cost` : Required servicing cost (in R$)
-* `Availability` : Indicates whether or not the vehicle is available for purchase in the game
-* `Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
+* `Is Available` : Indicates whether or not the vehicle is available for purchase in the game
+* `Has Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
 * `In Season 1` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1
 * `In Season 2` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 2
