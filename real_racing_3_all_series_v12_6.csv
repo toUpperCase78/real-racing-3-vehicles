@@ -1,4 +1,17 @@
 Main Tab,Group,Series,Manufacturer,Model
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,BWT Alpine F1 Team A524
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,Aston Martin Aramco Cognizant Formula One Team AMR24
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,Scuderia Ferrari SF-24
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,MoneyGram Haas F1 Team VF-24
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,Kick Sauber F1 Team C44
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,McLaren F1 Team MCL38
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,Mercedes-AMG Petronas Formula One Team W15
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,Visa Cash App RB Formula One Team VCARB 01
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,Oracle Red Bull Racing RB20
+Motorsports,Formula 1 Hub,2024 Champion Series,Formula 1,Williams Racing FW46
+Motorsports,Formula 1 Hub,F1 Exhibition,Formula 1,Valente
+Motorsports,Formula 1 Hub,F1 Exhibition,Formula 1,R3 ESports Challenger
+Motorsports,Formula 1 Hub,F1 Exhibition,Formula 1,F1 Academy Car
 Motorsports,Formula 1 Hub,2023 Champion Series,Formula 1,BWT Alpine F1 Team A523
 Motorsports,Formula 1 Hub,2023 Champion Series,Formula 1,Oracle Red Bull Racing RB19
 Motorsports,Formula 1 Hub,2023 Champion Series,Formula 1,Scuderia AlphaTauri AT04
@@ -39,8 +52,6 @@ Motorsports,Formula 1 Hub,AlphaTauri AT03 Invitational Series,Formula 1,Scuderia
 Motorsports,Formula 1 Hub,Haas VF-22 Invitational Series,Formula 1,Haas F1 Team VF-22
 Motorsports,Formula 1 Hub,Alfa Romeo Racing Orlen C42 Invitational Series,Formula 1,Alfa Romeo Racing Orlen C42
 Motorsports,Formula 1 Hub,Williams FW44 Invitational Series,Formula 1,Williams Racing FW44
-Motorsports,Formula 1 Hub,F1 Exhibition,Formula 1,F1 R3 ESports Challenger
-Motorsports,Formula 1 Hub,F1 Exhibition,Formula 1,F1 Academy Car
 Motorsports,Formula 1 Hub,2021 Champion Series,Formula 1,Alpine F1 Team A521
 Motorsports,Formula 1 Hub,2021 Champion Series,Formula 1,Red Bull Racing Honda RB16B
 Motorsports,Formula 1 Hub,2021 Champion Series,Formula 1,Scuderia AlphaTauri Honda AT02
@@ -192,6 +203,7 @@ Motorsports,NASCAR,2015 Season (NASCAR),Toyota,Camry (Joe Gibbs Racing - 2015)
 Motorsports,NASCAR,Quanticfire Talent Tour,Chevrolet,SS (NASCAR Academy)
 Motorsports,NASCAR,Quanticfire Talent Tour,Ford,Fusion (NASCAR Academy)
 Motorsports,NASCAR,Quanticfire Talent Tour,Toyota,Camry (Sunoco)
+Motorsports,WRC,WRC Challenge,Toyota,GR Yaris Rally1
 Motorsports,Supercars,Supercars Exhibition,Holden,Commodore ZB (2018)
 Motorsports,Suerpcars,Supercars Exhibition,Ford,Falcon FG X (2018)
 Motorsports,Supercars,Supercars Exhibition,Nissan,Altima (2018)
@@ -302,6 +314,11 @@ Road Collection,Season 3,Rarest of the Rare,Pagani,Utopia
 Road Collection,Season 3,Sporty Elegance,BMW,Z4 M40i
 Road Collection,Season 3,Lightning Fast!,Rimac,Nevera
 Road Collection,Season 3,Ready to Race!,KTM,X-Box GT-XR
+Road Collection,Season 3,Speed Titans,Bugatti,Divo
+Road Collection,Season 3,Speed Titans,Koenigsegg,Jesko
+Road Collection,Season 3,Speed Titans,Koenigsegg,Gemera
+Road Collection,Season 3,Roar Ahead!,Ford,Mustang Dark Horse
+Road Collection,Season 3,The AMR Pro Experience,Aston Martin,Vulcan AMR Pro
 Road Collection,Season 2,90's Japanese Icons,Honda,Civic Type-R
 Road Collection,Season 2,90's Japanese Icons,Honda,Integra Type-R
 Road Collection,Season 2,90's Japanese Icons,Mitsubishi Motors,Lancer Evolution VI
@@ -1129,3 +1146,7 @@ Road Collection,Exclusive Series,Koenigsegg Jesko Absolut (Exclusive Series),Koe
 Road Collection,Exclusive Series,Rimac Nevera (Exclusive Series),Rimac,Nevera
 Road Collection,Exclusive Series,McLaren Artura (Exclusive Series),McLaren,Artura
 Road Collection,Exclusive Series,Lotus Emira (Exclusive Series),Lotus,Emira
+Road Collection,Exclusive Series,Porsche 919 Hybrid (2015) (Exclusive Series),Porsche,919 Hybrid (2015)
+Road Collection,Exclusive Series,Koenigsegg Gemera (Exclusive Series),Koenigsegg,Gemera
+Road Collection,Exclusive Series,Aston Martin Vulcan AMR Pro (Exclusive Series),Aston Martin,Vulcan AMR Pro
+Road Collection,Exclusive Series,Ford Mustang Dark Horse (Exclusive Series),Ford,Mustang Dark Horse
