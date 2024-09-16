@@ -15,9 +15,9 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.3.0
+**Latest Dataset Version:** 3.3.1
 
-**Last Updated:** 7th September 2024
+**Last Updated:** 16th September 2024
 
 **Vehicle Roster Dependency:** Game Version 12.6 - Formula 1 2024 Update
 
