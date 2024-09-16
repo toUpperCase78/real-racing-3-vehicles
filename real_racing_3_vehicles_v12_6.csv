@@ -116,7 +116,7 @@ Chevrolet,Camaro ZL1 1LE (Chip Ganassi Racing - 2021),45.4,298,3.42,29.0,1.10,R,
 Chevrolet,Camaro ZL1 1LE (Richard Childress Racing - 2021),45.4,296,3.41,29.3,1.11,R,FR,1,2150000 M$,180,0,No,No,No,No,No,No
 Chevrolet,Camaro ZL1 1LE (Richard Petty Motorsports - 2021),45.4,296,3.44,29.0,1.11,R,FR,1,2150000 M$,180,0,No,No,No,No,No,No
 Chevrolet,Camaro ZL1 (2022),45.3,290,3.42,29.0,1.09,R,FR,1,2150000 M$,180,0,No,No,No,No,Yes,No
-Chevrolet,Camaro ZL1 (2023),46.7,293,3.32,28.6,1.11,R,FR,1,2150000 M$,180,0,Yes,No,No,No,No,Yes
+Chevrolet,Camaro ZL1 (2023),46.7,293,3.32,28.6,1.11,R,FR,1,2150000 M$,180,0,No,No,No,No,No,Yes
 Chevrolet,Camaro GT4.R,48.7,264,4.00,30.2,1.52,R,MR,1,1000000 M$,180,0,Yes,No,No,No,No,No
 Chevrolet,Corvette C7.R,77.6,322,2.90,26.2,1.78,R,FR,1,650 Gold,285,1990,Yes,No,No,No,No,No
 Dodge,Charger R/T,8.4,235,5.20,34.7,0.82,P,F4,1,36495 R$,10,467,Yes,No,Yes,No,No,No
@@ -183,7 +183,7 @@ Ford,Mustang (Team Penske - 2020),43.8,292,3.46,29.9,1.10,R,FR,1,2150000 M$,180,
 Ford,Mustang (Stewart-Haas Racing - 2021),45.4,296,3.46,29.3,1.13,R,FR,1,2150000 M$,180,0,No,No,No,No,No,No
 Ford,Mustang (Team Penske - 2021),45.4,296,3.43,29.3,1.12,R,FR,1,2150000 M$,180,0,No,No,No,No,No,No
 Ford,Mustang GT (2022),45.3,290,3.46,29.3,1.11,R,FR,1,2150000 M$,180,0,No,No,No,No,Yes,No
-Ford,Mustang GT (2023),46.7,293,3.36,29.0,1.13,R,FR,1,2150000 M$,180,0,Yes,No,No,No,No,Yes
+Ford,Mustang GT (2023),46.7,293,3.36,29.0,1.13,R,FR,1,2150000 M$,180,0,No,No,No,No,No,Yes
 Ford,Mustang Dark Horse,46.2,267,4.10,31.7,1.07,R,FR,1,500 Gold,255,1812,Yes,Yes,No,No,No,Yes
 Ford,GT Le Mans (2016),77.9,322,2.79,25.6,1.74,R,FR,1,650 Gold,285,1990,Yes,No,No,No,No,No
 Ford,GT Le Mans (2019),79.2,323,2.77,25.6,1.76,R,MR,2,680 Gold,180,1997,Yes,Yes,No,No,No,No
@@ -508,7 +508,7 @@ Toyota,Camry (Joe Gibbs Racing - 2020),43.8,295,3.48,29.9,1.10,R,FR,1,2150000 M$
 Toyota,Camry (Joe Gibbs Racing - 2021),45.4,298,3.45,29.3,1.12,R,FR,1,2150000 M$,180,0,No,No,No,No,No,No
 Toyota,Camry (23XI Racing - 2021),45.4,301,3.42,29.3,1.10,R,FR,1,2150000 M$,180,0,No,No,No,No,No,No
 Toyota,Camry TRD (2022),45.3,293,3.44,29.3,1.10,R,FR,1,2150000 M$,180,0,No,No,No,No,Yes,No
-Toyota,Camry TRD (2023),46.7,296,3.34,29.0,1.12,R,FR,1,2150000 M$,180,0,Yes,No,No,No,No,Yes
+Toyota,Camry TRD (2023),46.7,296,3.34,29.0,1.12,R,FR,1,2150000 M$,180,0,No,No,No,No,No,Yes
 Toyota,GR Yaris Rally1,43.2,201,2.70,29.7,1.37,R,F4,1,2250000 M$,260,0,Yes,No,No,No,No,Yes
 Toyota,TS040 Hybrid (2014),89.4,394,2.50,26.2,1.82,R,M4,2,950 Gold,325,2192,Yes,No,Yes,No,No,No
 Volkswagen,Golf GTI (2021),15.4,249,5.10,33.8,0.97,P,FF,2,300 Gold,180,1377,Yes,No,No,Yes,No,No
