@@ -58,9 +58,9 @@ Data analyses are available in separate parts. You can click on the links in the
 
 | Parts | Features |
 | ----- | -------- |
-| [Part 1](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev5.ipynb) | Basic & Intermediate Data Analyses |
-| [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis2_rev4.ipynb) | Advanced Data Analyses |
-| [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis3_rev4.ipynb) | Several Data Visualizations |
+| [Part 1](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis1_Rev5.ipynb) | Basic & Intermediate Data Analyses |
+| [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis2_Rev4.ipynb) | Advanced Data Analyses |
+| [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis3_Rev4.ipynb) | Several Data Visualizations |
 
 ## Notes
 
