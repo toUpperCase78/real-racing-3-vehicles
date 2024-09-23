@@ -54,13 +54,13 @@ Each row represents the main tab, name of the group, name of the series and indi
 
 Data analyses are available in separate parts. You can click on the links in the table and inspect them all.
 
-**All these analyses have been prepared in IPython Shell and are based on game version 11.0.**
+**All these analyses have been prepared in IPython Shell and are based on game version 12.6.**
 
 | Parts | Features |
 | ----- | -------- |
-| [Part 1](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev4.ipynb) | Basic & Intermediate Data Analyses |
-| [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis2_rev3.ipynb) | Advanced Data Analyses |
-| [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis3_rev3.ipynb) | Several Data Visualizations |
+| [Part 1](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis1_rev5.ipynb) | Basic & Intermediate Data Analyses |
+| [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis2_rev4.ipynb) | Advanced Data Analyses |
+| [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_analysis3_rev4.ipynb) | Several Data Visualizations |
 
 ## Notes
 
