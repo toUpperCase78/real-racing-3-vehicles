@@ -1,7 +1,7 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(25).png)
+![Real Racing 3](Images/real_racing_3_image(26).png)
 
 Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.3.1
+**Latest Dataset Version:** 3.3.2
 
-**Last Updated:** 16th September 2024
+**Last Updated:** 20th October 2024
 
-**Vehicle Roster Dependency:** Game Version 12.6 - Formula 1 2024 Update
+**Vehicle Roster Dependency:** Game Version 12.7 - Koenigsegg CC850 Update
 
 ## Dataset Features
 
@@ -77,14 +77,14 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Alfa Romeo Giulia GTAm
 - [ ] Alpine A110 (2017)
 - [ ] Aston Martin DB5
-- [ ] Aston Martin DB11
+- [ ] Aston Martin DB12
 - [ ] Aston Martin Superleggera DBS
 - [ ] Aston Martin Vantage (2024)
 - [ ] Aston Martin Zagato
 - [ ] Audi Quattro S1 Rally
 - [X] ~~Audi R8 (New Gen.)~~
 - [ ] BMW i8
-- [X] ~~BMW M3 GTR (NFS:MW)~~
+- [X] ~~BMW M3 GTR~~
 - [X] ~~BMW M4 Coupe~~
 - [ ] Bugatti Centodieci
 - [ ] Bugatti Tourbillon
@@ -93,6 +93,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Ferrari 499P~~
 - [ ] Ferrari 812 GTS
 - [ ] Ferrari F2004
+- [ ] Ferrari F80
 - [X] ~~Ferrari Monza SP1~~
 - [ ] Ferrari Roma
 - [ ] Ford Focus RS (2017)
@@ -102,7 +103,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Formula 1 2024 Season~~
 - [ ] Formula 1 2024 Season Safety Cars (Mercedes-AMG & Aston Martin)
 - [ ] Honda Civic Type-R (Latest Gen)
-- [ ] Koenigsegg CC850
+- [X] ~~Koenigsegg CC850~~
 - [X] ~~Koenigsegg Gemera~~
 - [X] ~~Koenigsegg Jesko~~
 - [ ] Lamborghini Egoista
@@ -118,7 +119,8 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~McLaren Artura~~
 - [ ] McLaren MP4-13
 - [ ] McLaren Solus GT
-- [ ] Mercedes-AMG Project One
+- [ ] McLaren W1
+- [ ] Mercedes-AMG ONE
 - [ ] Mini John Cooper Works
 - [ ] Mitsubishi Lancer Evolution IX
 - [ ] Mitsubishi Lancer Evolution X
