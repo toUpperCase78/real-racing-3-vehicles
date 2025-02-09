@@ -1,7 +1,7 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(27).png)
+![Real Racing 3](Images/real_racing_3_image(28).png)
 
 Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.3.4
+**Latest Dataset Version:** 3.3.6
 
-**Last Updated:** 27th December 2024
+**Last Updated:** 9th February 2025
 
-**Vehicle Roster Dependency:** Game Version 13.0 - Ferrari SF90 XX Stradale Update
+**Vehicle Roster Dependency:** Game Version 13.1 - McLaren Speedtail Update
 
 ## Dataset Features
 
@@ -77,6 +77,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Alfa Romeo Giulia GTAm
 - [ ] Alpine A110 (2017)
 - [ ] Aston Martin DB5
+- [ ] Aston Martin DB11
 - [ ] Aston Martin DB12
 - [ ] Aston Martin Superleggera DBS
 - [ ] Aston Martin Vantage (2024)
@@ -87,7 +88,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] BMW i8
 - [X] ~~BMW M3 GTR~~
 - [X] ~~BMW M4 Coupe~~
-- [ ] Bugatti Centodieci
+- [X] ~~Bugatti Centodieci~~
 - [ ] Bugatti Tourbillon
 - [ ] Ferrari 12Cilindri
 - [X] ~~Ferrari 296 GTB~~
@@ -97,7 +98,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Ferrari F80
 - [X] ~~Ferrari Monza SP1~~
 - [ ] Ferrari Roma
-- [ ] Ford Focus RS (2017)
+- [X] ~~Ford Focus RS~~
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
 - [X] ~~Formula 1 2023 Season~~
@@ -120,6 +121,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~McLaren Artura~~
 - [ ] McLaren MP4-13
 - [ ] McLaren Solus GT
+- [X] ~~McLaren Speedtail~~
 - [ ] McLaren W1
 - [ ] Mercedes-AMG ONE
 - [ ] Mini John Cooper Works
