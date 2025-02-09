@@ -224,7 +224,12 @@ Motorsports,NASCAR,2015 Season (NASCAR),Toyota,Camry (Joe Gibbs Racing - 2015)
 Motorsports,NASCAR,Quanticfire Talent Tour,Chevrolet,SS (NASCAR Academy)
 Motorsports,NASCAR,Quanticfire Talent Tour,Ford,Fusion (NASCAR Academy)
 Motorsports,NASCAR,Quanticfire Talent Tour,Toyota,Camry (Sunoco)
-Motorsports,WRC,WRC Challenge,Toyota,GR Yaris Rally1
+Motorsports,WRC,WRC Challenge,Toyota,GR Yaris Rally1 Hybrid
+Motorsports,WRC,WRC Challenge,Ford,Puma Rally1 Hybrid
+Motorsports,WRC,WRC Challenge,Hyundai,i20 N Rally1 Hybrid
+Motorsports,WRC,Rally Ahead!,Toyota,GR Yaris Rally1 Hybrid
+Motorsports,WRC,Rally Ahead!,Ford,Puma Rally1 Hybrid
+Motorsports,WRC,Rally Ahead!,Hyundai,i20 N Rally1 Hybrid
 Motorsports,Supercars,Supercars Exhibition,Holden,Commodore ZB (2018)
 Motorsports,Suerpcars,Supercars Exhibition,Ford,Falcon FG X (2018)
 Motorsports,Supercars,Supercars Exhibition,Nissan,Altima (2018)
@@ -244,6 +249,9 @@ Motorsports,GT4,2019 Season (GT4),Chevrolet,Camaro GT4.R
 Motorsports,GT4,2019 Season (GT4),Mercedes-AMG,GT4
 Motorsports,GT4,2019 Season (GT4),Audi,R8 LMS GT4
 Motorsports,GT4,2019 Season (GT4),BMW,M4 GT4
+Motorsports,GT4,GT4 Showdown,Mercedes-AMG,GT4
+Motorsports,GT4,GT4 Showdown,Audi,R8 LMS GT4
+Motorsports,GT4,GT4 Showdown,Nissan,Z GT4
 Motorsports,Euro Track Masters,Euro Track Masters Exhibition,BMW,Driving Experience M4 Racing
 Motorsports,Euro Track Masters,Euro Track Masters Exhibition,Mercedes-AMG,C 63 Touring Car
 Motorsports,Euro Track Masters,2016-17 Season (Euro Track Masters),BMW,Driving Experience M4 Racing
@@ -330,6 +338,14 @@ Road Collection,Season 4,Eternal Koenigsegg,Koenigsegg,CC850
 Road Collection,Season 4,The Stradale eXXperience,Lamborghini,Sesto Elemento
 Road Collection,Season 4,The Stradale eXXperience,Porsche,911 Turbo S
 Road Collection,Season 4,The Stradale eXXperience,Ferrari,SF90 XX Stradale
+Road Collection,Season 4,Hybrid-Beasts of Speed,Lamborghini,Sian FKP 37
+Road Collection,Season 4,Hybrid-Beasts of Speed,Porsche,918 Spyder Weissach Package
+Road Collection,Season 4,Hybrid-Beasts of Speed,McLaren,Speedtail (2020)
+Road Collection,Season 4,Bugatti Blitz,Bugatti,EB 110 Super Sport
+Road Collection,Season 4,Bugatti Blitz,Bugatti,Divo
+Road Collection,Season 4,Bugatti Blitz,Bugatti,Centodieci
+Road Collection,Season 4,Decades of Focus,Ford,Focus RS
+Road Collection,Season 4,Decates of Focus,Ford,Focus ST
 Road Collection,Season 3,Future Forward,McLaren,Artura
 Road Collection,Season 3,Acura Ascension,Acura,NSX Type S
 Road Collection,Season 3,Let's Go Jesko!,Koenigsegg,Jesko
@@ -1179,3 +1195,4 @@ Road Collection,Exclusive Series,Ferrari 499P (Exclusive Series),Ferrari,499P
 Road Collection,Exclusive Series,Ferrari SF90 XX Stradale (Exclusive Series),Ferrari,SF90 XX Stradale
 Road Collection,Exclusive Series,Koenigsegg CC850 (Exclusive Series),Koenigsegg,CC850
 Road Collection,Exclusive Series,Formula 1 Valente (Exclusive Series),Formula 1,Valente
+Road Collection,Exclusive Series,Bugatti Centodieci (Exclusive Series),Bugatti,Centodieci
