@@ -1,7 +1,7 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(28).png)
+![Real Racing 3](Images/real_racing_3_image(30).png)
 
 Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.3.6
+**Latest Dataset Version:** 3.4.1
 
-**Last Updated:** 9th February 2025
+**Last Updated:** 24th March 2025
 
-**Vehicle Roster Dependency:** Game Version 13.1 - McLaren Speedtail Update
+**Vehicle Roster Dependency:** Game Version 13.2 - Zenvo Aurora Tur Update
 
 ## Dataset Features
 
@@ -81,7 +81,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Aston Martin DB12
 - [ ] Aston Martin Superleggera DBS
 - [ ] Aston Martin Vantage (2024)
-- [ ] Aston Martin Valour
+- [X] ~~Aston Martin Valour~~
 - [ ] Aston Martin Zagato
 - [ ] Audi Quattro S1 Rally
 - [X] ~~Audi R8 (New Gen.)~~
@@ -103,7 +103,8 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Formula 1 2022 Season~~
 - [X] ~~Formula 1 2023 Season~~
 - [X] ~~Formula 1 2024 Season~~
-- [ ] Formula 1 2024 Season Safety Cars (Mercedes-AMG & Aston Martin)
+- [ ] Formula 1 2025 Season
+- [ ] Formula 1 2025 Season Safety Cars
 - [ ] Honda Civic Type-R (Latest Gen)
 - [X] ~~Koenigsegg CC850~~
 - [X] ~~Koenigsegg Gemera~~
@@ -126,11 +127,11 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Mercedes-AMG ONE
 - [ ] Mini John Cooper Works
 - [ ] Mitsubishi Lancer Evolution IX
-- [ ] Mitsubishi Lancer Evolution X
+- [X] ~~Mitsubishi Lancer Evolution X~~
 - [X] ~~Nissan Z~~
 - [ ] Peugeot 9X8
 - [X] ~~Porsche 911 Carrera (992)~~
-- [ ] Porsche 911 RSR (2024)
+- [ ] Porsche 911 RSR (2025)
 - [ ] Renault R26
 - [X] ~~Rimac Nevera~~
 - [ ] Saleen S7
