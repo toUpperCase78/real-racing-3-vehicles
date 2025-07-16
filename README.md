@@ -1,7 +1,7 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(33).png)
+![Real Racing 3](Images/real_racing_3_image(34).png)
 
 Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.4.5
+**Latest Dataset Version:** 3.4.7
 
-**Last Updated:** 4th June 2025
+**Last Updated:** 16th July 2025
 
-**Vehicle Roster Dependency:** Game Version 13.4 - Ligier JS P320 Update
+**Vehicle Roster Dependency:** Game Version 13.5 - Peugeot 9X8 Hypercar Update
 
 ## Dataset Features
 
@@ -81,6 +81,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Aston Martin DB12
 - [ ] Aston Martin Superleggera DBS
 - [ ] Aston Martin Vantage (2024)
+- [ ] Aston Martin Valkyrie AMR Pro
 - [X] ~~Aston Martin Valour~~
 - [ ] Aston Martin Zagato
 - [ ] Audi Quattro S1 Rally
@@ -100,6 +101,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Ferrari Monza SP1~~
 - [ ] Ferrari Roma
 - [X] ~~Ford Focus RS~~
+- [ ] Ford Sierra RS Cosworth
 - [X] ~~Ferrari SF90 Stradale~~
 - [X] ~~Formula 1 2022 Season~~
 - [X] ~~Formula 1 2023 Season~~
@@ -107,6 +109,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Formula 1 2025 Season
 - [ ] Formula 1 2025 Season Safety Cars
 - [X] ~~Honda Civic Type-R (Latest Gen)~~
+- [ ] Hyundai Ioniq 5 N
 - [X] ~~Koenigsegg CC850~~
 - [X] ~~Koenigsegg Gemera~~
 - [X] ~~Koenigsegg Jesko~~
@@ -130,14 +133,16 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Mitsubishi Lancer Evolution IX
 - [X] ~~Mitsubishi Lancer Evolution X~~
 - [X] ~~Nissan Z~~
-- [ ] Peugeot 9X8
+- [X] ~~Peugeot 9X8~~
 - [X] ~~Porsche 911 Carrera (992)~~
-- [ ] Porsche 911 RSR (2025)
+- [ ] Porsche 911 GT3 Cup (992)
+- [ ] Porsche Mission X
 - [ ] Renault R26
 - [X] ~~Rimac Nevera~~
 - [ ] Saleen S7
 - [ ] Subaru BRZ
 - [ ] Subaru Impreza WRX STI (2nd-5th Gen.)
+- [ ] Toyota GR86
 - [ ] Toyota Supra (Latest Gen)
 - [ ] W Motors Lykan Hypersport
 
