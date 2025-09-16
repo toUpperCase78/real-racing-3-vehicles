@@ -1,9 +1,9 @@
 # Real Racing 3 Vehicles
 **Datasets & Analyses for All Vehicles in Real Racing 3**
 
-![Real Racing 3](Images/real_racing_3_image(34).png)
+![Real Racing 3](Images/real_racing_3_image(35).png)
 
-Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 11 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
+Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 12 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
 
 Meanwhile, as a Data Science enthusiast, here I've created these datasets that list all the vehicles appeared in the game for each version; also including those that no longer available for purchase. 
 
@@ -15,11 +15,11 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 
 ## Version Info
 
-**Latest Dataset Version:** 3.4.7
+**Latest Dataset Version:** 3.5.1
 
-**Last Updated:** 16th July 2025
+**Last Updated:** 16th September 2025
 
-**Vehicle Roster Dependency:** Game Version 13.5 - Peugeot 9X8 Hypercar Update
+**Vehicle Roster Dependency:** Game Version 13.6 - McLaren Artura GT4 Update
 
 ## Dataset Features
 
@@ -38,11 +38,9 @@ _From time to time, I will keep the dataset up-to-date once new versions have be
 * `Service Time` : Required total servicing time (in minutes)
 * `Service Cost` : Required servicing cost (in R$)
 * `Is Available` : Indicates whether or not the vehicle is available for purchase in the game
-* `Has Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events when fully upgraded
+* `Has Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events to access when fully upgraded
 * `In Main Career`: Indicates whether or not the vehicle is involved in main career series
-* `In Season 1` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1
-* `In Season 2` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 2
-* `In Season 3` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 3
+* `In Season 1/2/3/4` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1, 2, 3 and 4, respectively
 
 ## Additional Dataset
 
@@ -96,6 +94,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Ferrari 296 GTB~~
 - [X] ~~Ferrari 499P~~
 - [ ] Ferrari 812 GTS
+- [ ] Ferrari 849 Testarossa
 - [ ] Ferrari F2004
 - [ ] Ferrari F80
 - [X] ~~Ferrari Monza SP1~~
@@ -113,6 +112,7 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Koenigsegg CC850~~
 - [X] ~~Koenigsegg Gemera~~
 - [X] ~~Koenigsegg Jesko~~
+- [ ] Lamborghini Aventador J
 - [ ] Lamborghini Egoista
 - [ ] Lamborghini Revuelto
 - [ ] Lamborghini Temerario
@@ -124,8 +124,9 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [X] ~~Mazda MX-5 (ND)~~
 - [ ] Mazda RX-8
 - [X] ~~McLaren Artura~~
+- [ ] McLaren Elva
 - [ ] McLaren MP4-13
-- [ ] McLaren Solus GT
+- [X] ~~McLaren Solus GT~~
 - [X] ~~McLaren Speedtail~~
 - [ ] McLaren W1
 - [ ] Mercedes-AMG ONE
