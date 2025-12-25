@@ -74,7 +74,7 @@ BMW,M4 GT3,66.9,277,3.10,29.3,1.71,R,RR,1,1325000 M$,180,0,Yes,No,No,Yes,Yes,No,
 BMW,3.0 CSL Hommage R,50.5,306,3.50,29.0,1.26,S,FR,1,550 Gold,150,1812,Yes,No,No,No,No,No,No
 BMW,M4 GT4,48.7,274,4.02,30.5,1.49,R,FR,1,1000000 M$,180,0,Yes,No,No,Yes,No,No,No
 BMW,M8 GTE,78.3,303,2.77,25.9,1.80,R,FR,1,680 Gold,180,1990,Yes,No,No,No,No,No,No
-BMW,Driving Experience M4 Racing,64.0,285,2.60,31.4,1.50,R,FR,2,1250000 M$,180,0,,NoYes,No,No,No,No,No
+BMW,Driving Experience M4 Racing,64.0,285,2.60,31.4,1.50,R,FR,2,1250000 M$,180,0,No,Yes,No,No,No,No,No
 BMW,M6 GT3,65.2,274,3.10,29.0,1.66,R,FR,1,750 Gold,180,1990,Yes,No,No,No,No,Yes,No
 BMW,M Hybrid V8,84.2,332,2.70,22.6,1.80,R,RR,2,2650000 M$,180,0,Yes,No,No,No,No,Yes,No
 Brabham,BT62,68.9,319,2.88,27.4,1.55,R,MR,3,800 Gold,180,1997,Yes,Yes,No,Yes,No,Yes,No
@@ -538,4 +538,5 @@ Toyota,TS040 Hybrid (2014),89.4,394,2.50,26.2,1.82,R,M4,2,950 Gold,325,2192,Yes,
 Volkswagen,Golf GTI (2021),15.4,249,5.10,33.8,0.97,P,FF,2,300 Gold,180,1377,Yes,No,No,Yes,No,No,No
 Volkswagen,XL Sport,23.7,270,5.50,32.0,1.25,R,M4,2,350 Gold,180,1415,Yes,No,No,Yes,No,No,No
 Volkswagen,ID.R,107.5,269,2.25,19.8,2.45,R,MR,2,1100 Gold,180,2062,Yes,Yes,No,Yes,No,No,Yes
+
 Zenvo,Aurora Tur,81.2,451,2.30,31.1,1.45,S,M4,2,900 Gold,180,1997,Yes,Yes,No,No,No,No,Yes
