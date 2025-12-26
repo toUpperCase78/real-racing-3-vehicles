@@ -6,11 +6,17 @@
 
 Hello everyone! I've been playing this mobile racing game, **Real Racing 3** (developed by **Firemonkey**, then **Slingshot** and published by **Electronic Arts**) for at least 8-9 years. As the game is almost 13 years old, it contains over 500 cars to drive around various tracks (e.g., Silverstone, Laguna Seca, Dubai Autodrome, Red Bull Ring, etc.).
 
-As a Data Scientist role, here I've created the datasets that list all the cars appeared in the game for each version; also including those that no longer available for purchase. 
+As a Data Scientist role, here I've dedicated myself to create the datasets that list all the cars appeared in the game for each version; also including those that no longer available for purchase. 
 
 I started this repository project from **game version 8.0**. Here, you can find car datasets for the most recent version and those from the previous versions in **PreviousDatasets** folder.
 
 ## THE FINAL LAP
+
+_Real Racing 3 has entered the final lap! The developers have made the difficult decision to sunset the game, which means, unfortunately, it was removed from the iOS App Store and Google Play Store on December 18, 2025 and existing players can continue playing until March 19, 2026. After this date, the servers will be shut down and the game will no longer be accessible to play! In addition, no more in-app purchases are accepted and any remaining in-game currencies can be spent on cars and upgrades to enjoy the last bits of our favorite and dream cars._
+
+_Well, we the players are so disappointed to see this beloved racing game fading away gradually from our handheld devices after 13 years! We've had so many great times to beat the challenges, level up many times, earn the achievements, compete against rivals (Time-shifted multiplayer, online multiplayer, or time trial competitions) and showcase our cars to the others around the world. It was truly a remarkable journey to see the game evolving after all these years, but saying goodbye and coping with the absence of it will not be so easy!_
+
+_THANK YOU FOR EVERYTHING REAL RACING 3, YOU WILL ALWAYS BE REMEMBERED IN OUR HEARTS!_
 
 ## Cars Dataset Version Info
 
@@ -65,7 +71,7 @@ As Real Racing 3 no longer gets new updates, there will be one last data analyse
 
 ## My Car Wishlist
 
-If the developers continued delivering updates on a regular basis, these were the cars on my wishlist; to be purchasable and driveable in Real Racing 3 (as some of them have already been carried out):
+If the developers continued delivering updates on a regular basis, these were the cars on my wishlist; to be purchasable and driveable in Real Racing 3 (luckily, some of them have already been carried out in previous updates):
 
 - [ ] Abarth 124 Spider
 - [ ] Abarth 500
