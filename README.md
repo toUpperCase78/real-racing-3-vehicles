@@ -1,58 +1,61 @@
-# Real Racing 3 Vehicles
-**Datasets & Analyses for All Vehicles in Real Racing 3**
+# Real Racing 3 Cars
 
-![Real Racing 3](Images/real_racing_3_image(36).png)
+**Datasets & Analyses for All Cars in Real Racing 3**
 
-Hello folks! I've been playing this mobile racing game, **Real Racing 3** (developed by Firemonkey and published by Electronic Arts) for several years. Although the game is 12 years old, it still gets updates several times each year, which includes new vehicles, tracks, career & motorsport series, special events & exclusive series. Up to now, it contains over 400 vehicles available for purchase and drive.
+![Real Racing 3](Images/real_racing_3_becoming_sunset.png)
 
-Meanwhile, as a Data Science enthusiast, here I've created these datasets that list all the vehicles appeared in the game for each version; also including those that no longer available for purchase. 
+Hello everyone! I've been playing this mobile racing game, **Real Racing 3** (developed by **Firemonkey**, then **Slingshot** and published by **Electronic Arts**) for at least 8-9 years. As the game is almost 13 years old, it contains over 500 cars to drive around various tracks (e.g., Silverstone, Laguna Seca, Dubai Autodrome, Red Bull Ring, etc.).
 
-I started this repository project from **game version 8.0**. Here, you can find vehicle datasets for all individual versions and data analyses await for valuable insights in the upcoming days!
+As a Data Scientist role, here I've created the datasets that list all the cars appeared in the game for each version; also including those that no longer available for purchase. 
 
-All the values in these datasets are obtained from the game's [wiki website](https://rr3.fandom.com/wiki/Main_Page).
+I started this repository project from **game version 8.0**. Here, you can find car datasets for the most recent version and those from the previous versions in **PreviousDatasets** folder.
 
-_From time to time, I will keep the dataset up-to-date once new versions have been released, along with minor fixes whenever necessary..._
+## THE FINAL LAP
 
-## Version Info
+## Cars Dataset Version Info
 
-**Latest Dataset Version:** 3.5.2
+**Latest Dataset Version:** 4.0.0
 
-**Last Updated:** 24th Novermber 2025
+**Last Updated:** 27th December 2025
 
-**Vehicle Roster Dependency:** Game Version 13.6 - Radical RXC Update
+**Car Roster Dependency:** Game Version 14.0 - Untitled Final Update
 
-## Dataset Features
+## Cars Dataset Features
 
-**The latest dataset contains these features below for each vehicle:**
+All the values in the cars dataset, including for the previous versions were obtained from the game's [wiki website](https://rr3.fandom.com/wiki/Main_Page). However, while retrieving the necessary data, some of them might've been inconsistent or obsolete. For this reason, I carefully filled with the most accurate values by double-checking everything and gave the final shape, being the fullest and the most informative one for **version 14.0**.
+
+**The latest dataset contains these features below for each car:**
 * `Manufacturer` : The manufacturer name (or motorsport discipline)
 * `Model` : The model name of the manufacturer
-* `PR` : Base Performance Rating value (i.e. no upgrades exist)
+* `PR` : Base Performance Rating value (no upgrades)
 * `Top Speed` : Base top speed value (in kph)
 * `Acceleration` : Base acceleration value (in seconds)
 * `Braking` : Base braking value (in meters)
 * `Grip` : Base cornering grip value (in g)
-* `Class` : Indicates the vehicle class (`P`, `S` or `R`)
-* `Type` : Indicates the vehicle type w.r.t. engine placement and traction (e.g. `FR`, `M4`, `RR`) 
-* `Series` : Describes the number of eligible career series the vehicle can be driven
-* `Price` : The value for purchasing the vehicle with the related currrency type (`R$`, `Gold` or `M$`)
+* `Class` : Indicates the car class (`P`, `S` or `R`)
+* `Type` : Indicates the car type w.r.t. engine placement and traction (e.g. `FR`, `M4`, `RR`) 
+* `Series` : Describes the number of eligible career series the car can be driven
+* `Price` : The value for purchasing the car with the related currrency type (`R$`, `Gold` or `M$`)
 * `Service Time` : Required total servicing time (in minutes)
 * `Service Cost` : Required servicing cost (in R$)
-* `Is Available` : Indicates whether or not the vehicle is available for purchase in the game
-* `Has Exclusive Events` : Indicates whether or not the vehicle has its own exclusive events to access when fully upgraded
-* `In Main Career`: Indicates whether or not the vehicle is involved in main career series
-* `In Season 1/2/3/4` : Indicates whether or not the vehicle is involved in special events, limited-time series or bonus career series in all rounds of Season 1, 2, 3 and 4, respectively
+* `Is Available` : Indicates whether or not the car is available for purchase in the game
+* `Has Exclusive Events` : Indicates whether or not the car has its own exclusive events to access when fully upgraded
+* `In Motorsports`: Indicates whether or not the car is involved in Motorsports series
+* `In Road Collection`: Indicates whether or not the car is involved in Road Collection series
+* `In Main Career`: Indicates whether or not the car is involved in Main Career series
+* `In Season 1/2/3/4/5` : Indicates whether or not the car is involved in special events, limited-time series or bonus career series in all rounds of Season 1, 2, 3, 4, and 5 respectively
 
 ## Additional Dataset
 
 In the meantime, an additional dataset can be seen in the repo, containing all the series across all different disciplines and tiers from **Motorsports** and **Road Collection** (including special career series and exclusive series) for the latest version of Real Racing 3. 
 
-Each row represents the main tab, name of the group, name of the series and individual vehicle with the manufacturer-model name belonging to that series. So, please make sure taking a look at the new dataset to observe the eligibility of any vehicle you enjoy!
+Each row represents the main tab, name of the group, name of the series and individual car with the manufacturer-model name belonging to that series. So, please make sure taking a look at the new dataset to observe the eligibility of any car you enjoy driving!
 
 ## My Data Analyses
 
-Data analyses are available in separate parts. You can click on the links in the table and inspect them all.
+As Real Racing 3 no longer gets new updates, there will be one last data analyses on the cars of the final version (v14.0) to work on. It might take some time to publish here, so stay tuned.
 
-**All these analyses have been prepared in IPython Shell and are based on game version 12.6.**
+**Currently, the latest performed analyses are presented here (formatted in Jupyter Notebook), based on game version 12.6.**
 
 | Parts | Features |
 | ----- | -------- |
@@ -60,15 +63,9 @@ Data analyses are available in separate parts. You can click on the links in the
 | [Part 2](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis2_Rev4.ipynb) | Advanced Data Analyses |
 | [Part 3](https://github.com/toUpperCase78/real-racing-3-vehicles/blob/master/RR3_Analysis3_Rev4.ipynb) | Several Data Visualizations |
 
-## Notes
+## My Car Wishlist
 
-**Note 1:** It is bizarre that values that contained `$` appeared problematically, causing some missing rows and unusual sizing in the output due to rendering by GitHub when uploaded here. For this reason, texts containing `$` sign have been changed within the analyses.
-
-**Note 2:** Due to new game versions and minor changes to datasets such as insertion of new vehicles and/or fixing erroneous values, experiments that were presented in outcomes might not be 100% accurate or out-of-date. That's why they will be fixed some time later to reflect those changes.
-
-## My Vehicle Wishlist
-
-By the way, I'd like to see these vehicles to be purchasable and driveable in the future updates of Real Racing 3! Here's my wishlist:
+If the developers continued delivering updates on a regular basis, these were the cars on my wishlist; to be purchasable and driveable in Real Racing 3 (as some of them have already been carried out):
 
 - [ ] Abarth 124 Spider
 - [ ] Abarth 500
@@ -148,4 +145,4 @@ By the way, I'd like to see these vehicles to be purchasable and driveable in th
 - [ ] Toyota Supra (Latest Gen)
 - [ ] W Motors Lykan Hypersport
 
-## AS ALWAYS, KEEP RACING!
+## KEEP RACING UNTIL THE LAST DAY!
